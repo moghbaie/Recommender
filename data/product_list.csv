@@ -1,0 +1,501 @@
+ProductID,Product Category,Description,Brand,Approx. Price (USD)
+PROD001,Smartphone,Flagship smartphone with advanced camera and processing power,Apple,999
+PROD002,Smartphone,Android smartphone with high refresh rate display and versatile camera,Samsung,899
+PROD003,Wireless Headphones,Over-ear headphones with active noise cancellation and long battery life,Sony,349
+PROD004,True Wireless Earbuds,Compact earbuds with comfortable fit and good sound quality,Bose,249
+PROD005,Smartwatch,Feature-rich smartwatch with health tracking and app integration,Apple,399
+PROD006,Laptop,Ultraportable laptop for everyday use and productivity,Dell,799
+PROD007,Tablet,Versatile tablet for entertainment creativity and productivity,Apple,499
+PROD008,Smart Speaker,Voice-activated smart speaker with virtual assistant,Amazon,99
+PROD009,4K Smart TV,55-inch Ultra HD television with smart features and HDR support,LG,699
+PROD010,Portable Bluetooth Speaker,Rugged and waterproof speaker for outdoor use,JBL,129
+PROD011,E-reader,Dedicated device for reading digital books with long battery life,Amazon,139
+PROD012,Digital Camera,Mirrorless camera for photography enthusiasts,Sony,1299
+PROD013,Gaming Console,High-performance console for immersive gaming experiences,Sony,499
+PROD014,Fitness Tracker,Wearable device for tracking activity sleep and heart rate,Fitbit,149
+PROD015,External Hard Drive,1TB portable external hard drive for data backup and storage,Seagate,59
+PROD016,Solid State Drive (SSD),1TB internal SSD for faster computer performance,Samsung,119
+PROD017,Wireless Mouse,Ergonomic wireless mouse for comfortable computer navigation,Logitech,49
+PROD018,Wireless Keyboard,Full-size wireless keyboard for comfortable typing,Logitech,79
+PROD019,Webcam,High-definition webcam for video conferencing,Logitech,69
+PROD020,Router,Wi-Fi 6 router for fast and reliable home network,Netgear,149
+PROD021,Smart Lighting,Smart LED bulb that can be controlled via app or voice assistant,Philips Hue,49
+PROD022,Smart Thermostat,Wi-Fi enabled thermostat for remote temperature control and energy savings,Nest,199
+PROD023,Security Camera,Wireless indoor/outdoor security camera with motion detection,Ring,99
+PROD024,Drone,Compact drone with camera for aerial photography and videography,DJI,799
+PROD025,Projector,Portable projector for home theater or presentations,Anker,299
+PROD026,Car Dash Cam,High-resolution dashboard camera for recording driving footage,Garmin,149
+PROD027,GPS Navigation,Dedicated GPS device for in-car navigation,Garmin,179
+PROD028,Portable Power Bank,High-capacity portable charger for smartphones and other devices,Anker,49
+PROD029,USB Hub,Multi-port USB hub for expanding connectivity,Anker,29
+PROD030,Surge Protector,Power strip with surge protection to safeguard electronics,Belkin,39
+PROD031,Smartphone,Mid-range smartphone with good battery life,Google,449
+PROD032,Smartphone,Budget-friendly smartphone with essential features,Motorola,199
+PROD033,Wireless Headphones,Budget-friendly over-ear headphones,Anker,59
+PROD034,True Wireless Earbuds,Water-resistant earbuds for workouts,Jabra,179
+PROD035,Smartwatch,Basic fitness tracker with smartwatch features,Xiaomi,79
+PROD036,Laptop,Chromebook for cloud-based productivity,Google,399
+PROD037,Tablet,Android tablet for media consumption,Samsung,299
+PROD038,Smart Speaker,Compact smart speaker,Google,49
+PROD039,4K Smart TV,65-inch Ultra HD television with local dimming,TCL,899
+PROD040,Portable Bluetooth Speaker,Mini and ultra-portable speaker,Sony,59
+PROD041,E-reader,Waterproof e-reader for reading by the pool or bath,Kobo,159
+PROD042,Digital Camera,Entry-level DSLR camera,Canon,599
+PROD043,Gaming Console,Portable gaming console,Nintendo,299
+PROD044,Fitness Tracker,Simple step counter and sleep tracker,Amazfit,49
+PROD045,External Hard Drive,2TB desktop external hard drive,Western Digital,79
+PROD046,Solid State Drive (SSD),500GB NVMe SSD for high-speed performance,Crucial,69
+PROD047,Wireless Mouse,Silent wireless mouse,Microsoft,39
+PROD048,Wireless Keyboard,Compact wireless keyboard with trackpad,Apple,99
+PROD049,Webcam,4K webcam for professional video calls,Razer,199
+PROD050,Router,Mesh Wi-Fi system for whole-home coverage,Google,299
+PROD051,Smart Lighting,Color-changing smart LED strip,Govee,39
+PROD052,Smart Thermostat,Learning thermostat with energy usage reports,ecobee,249
+PROD053,Security Camera,Pan-tilt indoor security camera,Wyze,39
+PROD054,Drone,Beginner-friendly mini drone,Ryze (DJI),99
+PROD055,Projector,Short-throw projector,Epson,799
+PROD056,Car Dash Cam,Dual-lens dash cam with front and rear recording,Vantrue,199
+PROD057,GPS Navigation,Motorcycle GPS device,TomTom,299
+PROD058,Portable Power Bank,Ultra-slim portable charger,Aukey,29
+PROD059,USB Hub,Powered USB hub with individual switches,Sabrent,49
+PROD060,Surge Protector,Wall-mounted surge protector with USB ports,Tripp Lite,29
+PROD061,Smartphone,Rugged smartphone for outdoor activities,CAT,599
+PROD062,Smartphone,Foldable smartphone,Samsung,1799
+PROD063,Wireless Headphones,Audiophile-grade wireless headphones,Sennheiser,499
+PROD064,True Wireless Earbuds,Premium earbuds with exceptional audio fidelity,Sennheiser,299
+PROD065,Smartwatch,Hybrid smartwatch with analog hands and smart features,Fossil,229
+PROD066,Laptop,Gaming laptop with dedicated graphics card,ASUS ROG,1499
+PROD067,Tablet,Graphic tablet with stylus for digital art,Wacom,399
+PROD068,Smart Speaker,Smart display with a screen,Amazon,149
+PROD069,4K Smart TV,75-inch OLED Ultra HD television,Sony,2499
+PROD070,Portable Bluetooth Speaker,Party speaker with lights and karaoke features,Sony,299
+PROD071,E-reader,Large-screen e-reader for PDFs and magazines,Onyx Boox,399
+PROD072,Digital Camera,Full-frame mirrorless camera,Canon,2499
+PROD073,Gaming Console,All-digital gaming console,Microsoft,299
+PROD074,Fitness Tracker,Advanced fitness tracker with ECG and SpO2 monitoring,Withings,299
+PROD075,External Hard Drive,4TB portable external hard drive,WD My Passport,99
+PROD076,Solid State Drive (SSD),2TB SATA SSD for large storage capacity,SanDisk,199
+PROD077,Wireless Mouse,Vertical ergonomic wireless mouse,Anker,29
+PROD078,Wireless Keyboard,Mechanical wireless keyboard for tactile typing,Corsair,149
+PROD079,Webcam,PTZ (Pan-Tilt-Zoom) webcam for professional setups,OBSBOT,299
+PROD080,Router,Tri-band Wi-Fi router for demanding networks,ASUS,249
+PROD081,Smart Lighting,Outdoor smart spotlights,Philips Hue,149
+PROD082,Smart Thermostat,Smart thermostat with voice control,Honeywell,179
+PROD083,Security Camera,Solar-powered wireless security camera,Arlo,199
+PROD084,Drone,Professional-grade drone with advanced camera and features,DJI,1999
+PROD085,Projector,Ultra short-throw laser projector,Samsung,3499
+PROD086,Car Dash Cam,4K dash cam with GPS and parking monitoring,BlackVue,299
+PROD087,GPS Navigation,Aviation GPS device,Garmin,799
+PROD088,Portable Power Bank,Power station for laptops and appliances,Goal Zero,399
+PROD089,USB Hub,Thunderbolt USB hub,CalDigit,249
+PROD090,Surge Protector,Rack-mounted surge protector,APC,99
+PROD091,Smartphone,Gaming-focused smartphone with high refresh rate and cooling system,ASUS ROG,799
+PROD092,Smartphone,Privacy-focused smartphone with enhanced security features,Purism,799
+PROD093,Wireless Headphones,Open-back wireless headphones,Hifiman,599
+PROD094,True Wireless Earbuds,Bone conduction wireless earbuds,Shokz,149
+PROD095,Smartwatch,Dive smartwatch with advanced underwater features,Garmin,599
+PROD096,Laptop,2-in-1 convertible laptop,HP Spectre,1199
+PROD097,Tablet,Rugged tablet for industrial use,Panasonic,1499
+PROD098,Smart Speaker,High-fidelity smart speaker,Sonos,229
+PROD099,4K Smart TV,85-inch QLED Ultra HD television,Samsung,2999
+PROD100,Portable Bluetooth Speaker,Waterproof speaker with 360-degree sound,Ultimate Ears,179
+PROD101,Smartphone,Compact smartphone with excellent camera,Apple,799
+PROD102,Smartphone,Android One smartphone with clean interface,Nokia,349
+PROD103,Wireless Headphones,Noise-canceling earbuds with personalized sound,Sony,279
+PROD104,True Wireless Earbuds,Affordable earbuds with decent sound quality,Xiaomi,49
+PROD105,Smartwatch,Rugged outdoor smartwatch with long battery life,Garmin,499
+PROD106,Laptop,Thin and light business laptop with strong security features,Lenovo,1099
+PROD107,Tablet,Small and portable tablet,Apple,329
+PROD108,Smart Speaker,Portable smart speaker with Wi-Fi and Bluetooth,Sonos,199
+PROD109,4K Smart TV,50-inch Ultra HD TV with voice control,Samsung,599
+PROD110,Portable Bluetooth Speaker,Waterproof speaker with bass boost,JBL,179
+PROD111,E-reader,Basic e-reader with glare-free screen,Amazon,89
+PROD112,Digital Camera,Bridge camera with long zoom lens,Canon,449
+PROD113,Gaming Console,Next-gen console with high frame rates,Microsoft,499
+PROD114,Fitness Tracker,Waterproof fitness band for swimming,Xiaomi,39
+PROD115,External Hard Drive,5TB desktop external storage,Seagate,109
+PROD116,Solid State Drive (SSD),250GB internal SSD for boot drive,Crucial,39
+PROD117,Wireless Mouse,Gaming wireless mouse with customizable buttons,Logitech,79
+PROD118,Wireless Keyboard,Ergonomic split wireless keyboard,Logitech,129
+PROD119,Webcam,1080p webcam with wide-angle lens,Logitech,49
+PROD120,Router,Budget-friendly Wi-Fi 5 router,TP-Link,49
+PROD121,Smart Lighting,Smart LED floodlight for outdoor use,Philips Hue,79
+PROD122,Smart Thermostat,Entry-level smart thermostat,Amazon,79
+PROD123,Security Camera,Wireless doorbell camera,Ring,199
+PROD124,Drone,Foldable mini drone with HD camera,DJI,449
+PROD125,Projector,Mini portable projector with built-in battery,Anker,399
+PROD126,Car Dash Cam,Compact dash cam with loop recording,Rexing,79
+PROD127,GPS Navigation,Truck-specific GPS device,Garmin,399
+PROD128,Portable Power Bank,Wireless portable charger,Anker,39
+PROD129,USB Hub,USB-C hub with multiple ports,Anker,59
+PROD130,Surge Protector,Heavy-duty surge protector with long cord,Belkin,59
+PROD131,Smartphone,Affordable 5G smartphone,Google,399
+PROD132,Smartphone,Smartphone with a focus on photography,Xiaomi,599
+PROD133,Wireless Headphones,Sport wireless headphones with secure fit,Jabra,149
+PROD134,True Wireless Earbuds,Noise-isolating earbuds for focused listening,Sony,199
+PROD135,Smartwatch,Fashion-forward smartwatch,Samsung,299
+PROD136,Laptop,High-performance workstation laptop,Dell,1799
+PROD137,Tablet,Large Android tablet for productivity,Samsung,599
+PROD138,Smart Speaker,Smart speaker with integrated display,Google,129
+PROD139,4K Smart TV,70-inch Ultra HD TV with Dolby Vision,Vizio,799
+PROD140,Portable Bluetooth Speaker,Ultra-powerful party speaker,JBL,349
+PROD141,E-reader,E-reader with warm light adjustment,Kobo,129
+PROD142,Digital Camera,Advanced bridge camera with RAW support,Panasonic,599
+PROD143,Gaming Console,Handheld gaming PC,Valve,399
+PROD144,Fitness Tracker,GPS-enabled fitness tracker,Fitbit,199
+PROD145,External Hard Drive,8TB desktop storage solution,Western Digital,159
+PROD146,Solid State Drive (SSD),1TB NVMe Gen4 SSD,Samsung,179
+PROD147,Wireless Mouse,Trackball wireless mouse,Logitech,59
+PROD148,Wireless Keyboard,Compact Bluetooth keyboard for travel,Logitech,49
+PROD149,Webcam,Streamer webcam with ring light,Razer,99
+PROD150,Router,Wi-Fi 6E router for the latest devices,Netgear,299
+PROD151,Smart Lighting,Indoor smart table lamp,Philips Hue,99
+PROD152,Smart Thermostat,Smart thermostat for multi-zone control,ecobee,299
+PROD153,Security Camera,Wireless floodlight camera,Ring,249
+PROD154,Drone,Cinematic drone with 4K video recording,DJI,1199
+PROD155,Projector,4K home theater projector,Epson,1999
+PROD156,Car Dash Cam,3-channel dash cam with interior recording,Viofo,249
+PROD157,GPS Navigation,Marine GPS chartplotter,Garmin,999
+PROD158,Portable Power Bank,Solar-powered portable charger,Goal Zero,79
+PROD159,USB Hub,USB 3.0 hub with charging ports,Anker,39
+PROD160,Surge Protector,USB charging station with surge protection,Belkin,49
+PROD161,Smartphone,Durable and water-resistant smartphone,Samsung,549
+PROD162,Smartphone,Smartphone with a focus on battery life,Motorola,299
+PROD163,Wireless Headphones,True wireless active noise cancelling earbuds,Bose,299
+PROD164,True Wireless Earbuds,Budget-friendly sport earbuds,JLab,39
+PROD165,Smartwatch,Luxury smartwatch with premium materials,Tag Heuer,1999
+PROD166,Laptop,Creator laptop with professional graphics,ASUS,1599
+PROD167,Tablet,E-ink tablet for writing and reading,Remarkable,399
+PROD168,Smart Speaker,Portable smart speaker with long battery,Ultimate Ears,249
+PROD169,4K Smart TV,58-inch Ultra HD TV with HDR10+,TCL,499
+PROD170,Portable Bluetooth Speaker,Compact and stylish speaker,Bang & Olufsen,299
+PROD171,E-reader,Color e-reader for comics and magazines,Onyx Boox,499
+PROD172,Digital Camera,Micro Four Thirds mirrorless camera,Olympus,699
+PROD173,Gaming Console,Retro gaming console with classic games,Analogue,199
+PROD174,Fitness Tracker,Wristband with heart rate and blood oxygen,Huawei,99
+PROD175,External Hard Drive,10TB desktop NAS drive,Western Digital,249
+PROD176,Solid State Drive (SSD),2TB NVMe Gen4 high-speed SSD,Corsair,299
+PROD177,Wireless Mouse,Left-handed ergonomic wireless mouse,Logitech,69
+PROD178,Wireless Keyboard,Wireless mechanical keyboard with RGB lighting,Corsair,179
+PROD179,Webcam,AI-powered webcam with auto-framing,OBSBOT,199
+PROD180,Router,Gaming router with low latency features,ASUS ROG,279
+PROD181,Smart Lighting,Smart outdoor pathway lights,Philips Hue,129
+PROD182,Smart Thermostat,Wi-Fi thermostat with occupancy sensor,Honeywell,219
+PROD183,Security Camera,PTZ outdoor security camera with zoom,Arlo,299
+PROD184,Drone,FPV (First-Person View) racing drone,DJI,599
+PROD185,Projector,Portable LED projector with Wi-Fi,Samsung,699
+PROD186,Car Dash Cam,Mirror dash cam with front and rear view,Pruveeo,129
+PROD187,GPS Navigation,Handheld GPS device for hiking,Garmin,299
+PROD188,Portable Power Bank,Ultra-high capacity power bank for multiple devices,Anker,79
+PROD189,USB Hub,USB-C docking station with multiple display outputs,CalDigit,299
+PROD190,Surge Protector,Power conditioner with voltage regulation,APC,149
+PROD191,Smartphone,Satellite communication smartphone,Bullitt,699
+PROD192,Smartphone,Business-oriented smartphone with enhanced security,BlackBerry,499
+PROD193,Wireless Headphones,Planar magnetic wireless headphones,Audeze,799
+PROD194,True Wireless Earbuds,Spatial audio earbuds with head tracking,Apple,249
+PROD195,Smartwatch,GPS running smartwatch with advanced metrics,Garmin,349
+PROD196,Laptop,Mobile workstation with ISV certifications,Lenovo,2199
+PROD197,Tablet,Waterproof and dustproof tablet,Samsung,799
+PROD198,Smart Speaker,Multi-room audio smart speaker,Sonos,279
+PROD199,4K Smart TV,65-inch Mini-LED Ultra HD TV,TCL,1199
+PROD200,Portable Bluetooth Speaker,Retro-style Bluetooth speaker,Marshall,249
+PROD201,Smartphone,Camera-centric smartphone with large sensor,Xiaomi,699
+PROD202,Smartphone,Value-oriented 5G smartphone,Realme,299
+PROD203,Wireless Headphones,Over-ear headphones with touch controls,Sony,399
+PROD204,True Wireless Earbuds,ANC earbuds with transparency mode,Samsung,179
+PROD205,Smartwatch,Solar-powered smartwatch with long battery life,Garmin,399
+PROD206,Laptop,Lightweight and powerful ultrabook,HP,1299
+PROD207,Tablet,Compact Android tablet for reading and browsing,Lenovo,199
+PROD208,Smart Speaker,Smart alarm clock with voice assistant,Lenovo,79
+PROD209,4K Smart TV,77-inch OLED evo Ultra HD TV,LG,2999
+PROD210,Portable Bluetooth Speaker,Cylindrical speaker with 360 sound,UE Boom,149
+PROD211,E-reader,E-reader with note-taking capabilities,Remarkable,349
+PROD212,Digital Camera,Compact mirrorless camera for beginners,Sony,649
+PROD213,Gaming Console,Cloud gaming handheld device,Logitech G,349
+PROD214,Fitness Tracker,Slim and stylish fitness tracker,Fitbit,99
+PROD215,External Hard Drive,12TB desktop external drive,Seagate,219
+PROD216,Solid State Drive (SSD),4TB SATA SSD for mass storage,Samsung,399
+PROD217,Wireless Mouse,Ergonomic mouse with customizable weight,Corsair,69
+PROD218,Wireless Keyboard,Low-profile wireless keyboard,Logitech,99
+PROD219,Webcam,Ring light webcam for better lighting,NexiGo,59
+PROD220,Router,Wi-Fi 6 router with VPN support,Netgear,199
+PROD221,Smart Lighting,Smart recessed lighting kit,Philips Hue,199
+PROD222,Smart Thermostat,Learning thermostat with smart sensors,Nest,249
+PROD223,Security Camera,Wireless outdoor camera with spotlight,Arlo,279
+PROD224,Drone,Long-range drone with 4K HDR video,DJI,1599
+PROD225,Projector,Portable laser projector with autofocus,XGIMI,899
+PROD226,Car Dash Cam,Wireless dash cam with smartphone connectivity,Nio,179
+PROD227,GPS Navigation,Off-road GPS device with topographic maps,Garmin,499
+PROD228,Portable Power Bank,Mini portable charger for emergencies,Anker,19
+PROD229,USB Hub,USB-C to multiple USB-A adapter,Anker,29
+PROD230,Surge Protector,8-outlet surge protector power strip,Belkin,29
+PROD231,Smartphone,Waterproof and shockproof smartphone,Ulefone,399
+PROD232,Smartphone,Smartphone with a built-in projector,Samsung,899
+PROD233,Wireless Headphones,Bone conduction wireless headphones,Shokz,129
+PROD234,True Wireless Earbuds,High-fidelity earbuds with LDAC support,Sony,299
+PROD235,Smartwatch,Luxury hybrid smartwatch,Withings,279
+PROD236,Laptop,Ultra-thin and lightweight gaming laptop,Razer,1799
+PROD237,Tablet,11-inch Android tablet with keyboard support,Xiaomi,499
+PROD238,Smart Speaker,Smart soundbar with voice control,Sonos,399
+PROD239,4K Smart TV,86-inch LED Ultra HD TV,Samsung,1799
+PROD240,Portable Bluetooth Speaker,Waterproof and dustproof rugged speaker,JBL,249
+PROD241,E-reader,Large e-ink tablet for reading and writing,Boox,599
+PROD242,Digital Camera,Full-frame DSLR camera,Nikon,1999
+PROD243,Gaming Console,Portable gaming system with OLED screen,Nintendo,349
+PROD244,Fitness Tracker,Smart scale with body composition analysis,Withings,149
+PROD245,External Hard Drive,16TB desktop RAID storage,Seagate,399
+PROD246,Solid State Drive (SSD),8TB SATA SSD for archival storage,Crucial,799
+PROD247,Wireless Mouse,Ambidextrous wireless gaming mouse,Razer,99
+PROD248,Wireless Keyboard,Tenkeyless wireless mechanical keyboard,Logitech,119
+PROD249,Webcam,4K streaming webcam with autofocus,Elgato,199
+PROD250,Router,Mesh Wi-Fi system with Wi-Fi 6E,Linksys,349
+PROD251,Smart Lighting,Smart outdoor string lights,Philips Hue,179
+PROD252,Smart Thermostat,Smart thermostat with geofencing,ecobee,219
+PROD253,Security Camera,Wireless PTZ camera with solar panel option,Arlo,349
+PROD254,Drone,Micro drone for indoor flying,Ryze (DJI),129
+PROD255,Projector,Ultra-portable mini projector,Anker,249
+PROD256,Car Dash Cam,Integrated dash cam with ADAS features,Garmin,249
+PROD257,GPS Navigation,Fitness smartwatch with GPS,Garmin,299
+PROD258,Portable Power Bank,High-capacity power bank with AC outlet,Anker,149
+PROD259,USB Hub,Thunderbolt 4 docking station,CalDigit,399
+PROD260,Surge Protector,Industrial-grade surge protector,APC,199
+PROD261,Smartphone,Satellite-enabled rugged smartphone,Motorola,599
+PROD262,Smartphone,Smartphone with under-display camera,ZTE,699
+PROD263,Wireless Headphones,Open-ear wireless headphones,Shokz,179
+PROD264,True Wireless Earbuds,Waterproof ANC earbuds for swimming,Sony,229
+PROD265,Smartwatch,Luxury fashion smartwatch,Fossil,299
+PROD266,Laptop,Convertible Chromebook with stylus support,Lenovo,599
+PROD267,Tablet,Mini LED display tablet,Apple,699
+PROD268,Smart Speaker,Smart display with enhanced audio,Amazon,249
+PROD269,4K Smart TV,55-inch QLED Mini-LED Ultra HD TV,Samsung,1299
+PROD270,Portable Bluetooth Speaker,Splashproof portable speaker with long playtime,UE Wonderboom,99
+PROD271,E-reader,E-reader with physical page-turn buttons,Kobo,119
+PROD272,Digital Camera,Enthusiast APS-C mirrorless camera,Fujifilm,899
+PROD273,Gaming Console,Modular handheld gaming device,AYN,499
+PROD274,Fitness Tracker,Smart ring for activity and sleep tracking,Oura,299
+PROD275,External Hard Drive,20TB desktop external drive,Western Digital,449
+PROD276,Solid State Drive (SSD),4TB NVMe Gen4 high-performance SSD,Samsung,499
+PROD277,Wireless Mouse,Compact wireless mouse for travel,Logitech,29
+PROD278,Wireless Keyboard,Wireless ergonomic keyboard and mouse combo,Microsoft,89
+PROD279,Webcam,PTZ streaming webcam with remote control,Logitech,249
+PROD280,Router,Wi-Fi 6 mesh system with high throughput,ASUS,399 
+PROD281,Smart Lighting,Smart vintage-style LED bulb,Philips Hue,79
+PROD282,Smart Thermostat,Smart thermostat with occupancy detection,ecobee,279
+PROD283,Security Camera,Wireless 4K security camera system,Arlo,499
+PROD284,Drone,Lightweight and easy-to-fly beginner drone,DJI Mini,399
+PROD285,Projector,Short throw portable projector with Android TV,Anker,599
+PROD286,Car Dash Cam,4K dual dash cam with parking mode,Thinkware,349
+PROD287,GPS Navigation,Motorcycle-specific GPS with weather alerts,TomTom,349
+PROD288,Portable Power Bank,GaN fast-charging power bank,Anker,69
+PROD289,USB Hub,Powered USB-C hub with PD charging,Anker,79
+PROD290,Surge Protector,Flat plug surge protector power strip,Belkin,34
+PROD291,Smartphone,Ruggedized smartphone with thermal camera,CAT,699
+PROD292,Smartphone,Smartphone with a focus on video recording,Sony,799
+PROD293,Wireless Headphones,Noise-canceling headphones with spatial audio,Apple,549
+PROD294,True Wireless Earbuds,Budget-friendly wireless sport earbuds,Skullcandy,59
+PROD295,Smartwatch,Luxury gold smartwatch,Apple,799
+PROD296,Laptop,16-inch MacBook Pro,Apple,2499
+PROD297,Tablet,12.9-inch iPad Pro,Apple,1099
+PROD298,Smart Speaker,High-end smart speaker with premium sound,Sonos,499
+PROD299,4K Smart TV,75-inch QLED 8K Ultra HD TV,Samsung,3999
+PROD300,Portable Bluetooth Speaker,Waterproof floating Bluetooth speaker,JBL,199
+PROD301,Smartphone,Compact Android flagship phone,Google,699
+PROD302,Smartphone,Mid-range smartphone with excellent camera features,Xiaomi,399
+PROD303,Wireless Headphones,Premium noise-canceling headphones with touch interface,Bose,379
+PROD304,True Wireless Earbuds,Affordable ANC earbuds with long battery,Anker,79
+PROD305,Smartwatch,Hybrid smartwatch with long battery life,Garmin,299
+PROD306,Laptop,13-inch lightweight business laptop,Lenovo,999
+PROD307,Tablet,Android tablet with S Pen support,Samsung,349
+PROD308,Smart Speaker,Stereo smart speaker with voice assistant,Amazon,149
+PROD309,4K Smart TV,65-inch OLED Ultra HD TV,Sony,1799
+PROD310,Portable Bluetooth Speaker,Rugged Bluetooth speaker with carabiner,JBL,79
+PROD311,E-reader,E-reader with adjustable warm and cold light,Kobo,149
+PROD312,Digital Camera,Enthusiast APS-C DSLR camera,Nikon,799
+PROD313,Gaming Console,Digital-only next-gen console,Microsoft,299
+PROD314,Fitness Tracker,Waterproof tracker with heart rate monitoring,Fitbit,129
+PROD315,External Hard Drive,6TB desktop external storage,Western Digital,129
+PROD316,Solid State Drive (SSD),500GB NVMe Gen3 SSD,Crucial,59
+PROD317,Wireless Mouse,Ergonomic wireless mouse with thumb rest,Logitech,59
+PROD318,Wireless Keyboard,Compact wireless mechanical keyboard,Keychron,119
+PROD319,Webcam,1080p webcam with built-in microphone array,Logitech,79
+PROD320,Router,Wi-Fi 5 mesh system for medium-sized homes,TP-Link,129
+PROD321,Smart Lighting,Smart LED downlights,Philips Hue,69
+PROD322,Smart Thermostat,Basic Wi-Fi thermostat,Honeywell,129
+PROD323,Security Camera,Indoor pan and tilt security camera,Wyze,49
+PROD324,Drone,Toy drone for beginners,Ryze (DJI),79
+PROD325,Projector,Portable mini LED projector with Wi-Fi mirroring,Anker,279
+PROD326,Car Dash Cam,Front-facing dash cam with wide dynamic range,Garmin,129
+PROD327,GPS Navigation,Basic in-car GPS navigator,TomTom,99
+PROD328,Portable Power Bank,Slim portable charger for smartphones,Aukey,24
+PROD329,USB Hub,USB 3.0 hub with individual power switches,Sabrent,39
+PROD330,Surge Protector,6-outlet surge protector power strip,Belkin,24
+PROD331,Smartphone,Budget-friendly 5G smartphone,Motorola,249
+PROD332,Smartphone,Smartphone with advanced image stabilization,Oppo,499
+PROD333,Wireless Headphones,On-ear wireless headphones,Sony,179
+PROD334,True Wireless Earbuds,Sport earbuds with ear hooks,Jabra,159
+PROD335,Smartwatch,Fitness-focused smartwatch with GPS,Xiaomi,129
+PROD336,Laptop,14-inch business-oriented laptop,HP,899
+PROD337,Tablet,8-inch Android tablet,Lenovo,149
+PROD338,Smart Speaker,Smart speaker with ambient lighting,Amazon,69
+PROD339,4K Smart TV,55-inch QLED Ultra HD TV,TCL,699
+PROD340,Portable Bluetooth Speaker,Compact waterproof speaker,Sony,99
+PROD341,E-reader,Basic e-ink reader with adjustable front light,Amazon,119
+PROD342,Digital Camera,Entry-level mirrorless camera,Canon,499
+PROD343,Gaming Console,Hybrid gaming console,Nintendo,299
+PROD344,Fitness Tracker,Affordable sleep and activity tracker,Amazfit,39
+PROD345,External Hard Drive,3TB portable external drive,Seagate,79
+PROD346,Solid State Drive (SSD),1TB SATA III SSD,Western Digital,99
+PROD347,Wireless Mouse,Silent click wireless mouse,Microsoft,29
+PROD348,Wireless Keyboard,Full-size Bluetooth keyboard,Logitech,69
+PROD349,Webcam,720p HD webcam for basic video calls,Logitech,29
+PROD350,Router,Dual-band Wi-Fi 5 router,Netgear,69
+PROD351,Smart Lighting,Smart LED strip lights for TV backlight,Govee,29
+PROD352,Smart Thermostat,Programmable Wi-Fi thermostat,Honeywell,99
+PROD353,Security Camera,Wireless indoor camera with two-way audio,Wyze,29
+PROD354,Drone,Mini drone with basic camera features,Syma,59
+PROD355,Projector,Budget-friendly portable projector,Artlii,199
+PROD356,Car Dash Cam,Loop recording dash cam with G-sensor,Apeman,59
+PROD357,GPS Navigation,Simple GPS device for car,Garmin,79
+PROD358,Portable Power Bank,Pocket-sized portable charger,Anker,19
+PROD359,USB Hub,4-port USB 3.0 hub,Anker,24
+PROD360,Surge Protector,Power strip with USB charging ports,Belkin,29
+PROD361,Smartphone,Entry-level Android smartphone,Samsung,179
+PROD362,Smartphone,Smartphone with long software update support,Google,599
+PROD363,Wireless Headphones,Foldable wireless on-ear headphones,JBL,99
+PROD364,True Wireless Earbuds,Water-resistant earbuds for running,Skullcandy,79
+PROD365,Smartwatch,Basic smartwatch with notifications,Xiaomi,59
+PROD366,Laptop,15-inch budget-friendly laptop,Acer,499
+PROD367,Tablet,10-inch Android tablet,Samsung,249
+PROD368,Smart Speaker,Compact smart speaker with fabric design,Google,39
+PROD369,4K Smart TV,43-inch Ultra HD TV,LG,399
+PROD370,Portable Bluetooth Speaker,Ultra-compact mini speaker,Sony,39
+PROD371,E-reader,Basic e-ink reader,Kobo,79
+PROD372,Digital Camera,Point-and-shoot digital camera,Canon,249
+PROD373,Gaming Console,Refurbished gaming console,Various,Varies
+PROD374,Fitness Tracker,Basic activity tracker,Huawei,49
+PROD375,External Hard Drive,1TB slim portable drive,WD Elements,49
+PROD376,Solid State Drive (SSD),240GB SATA III SSD,Kingston,34
+PROD377,Wireless Mouse,Basic wireless optical mouse,Logitech,19
+PROD378,Wireless Keyboard,Slim wireless keyboard,Microsoft,49
+PROD379,Webcam,720p HD webcam with fixed focus,Generic,25
+PROD380,Router,Single-band Wi-Fi 4 router,TP-Link,29
+PROD381,Smart Lighting,Smart LED color bulb (single),Govee,29
+PROD382,Smart Thermostat,Manual programmable thermostat,Honeywell,49
+PROD383,Security Camera,Wired indoor security camera,Wyze,25
+PROD384,Drone,Mini toy drone with LED lights,Eachine,49
+PROD385,Projector,Small portable LCD projector,Vankyo,179
+PROD386,Car Dash Cam,Basic loop recording car camera,YI,49
+PROD387,GPS Navigation,Entry-level car GPS,TomTom,69
+PROD388,Portable Power Bank,Small keychain power bank,Generic,15
+PROD389,USB Hub,4-port USB 2.0 hub,Generic,10
+PROD390,Surge Protector,Basic power strip with surge protection,Generic,15
+PROD391,Smartphone,Senior-friendly smartphone with large buttons,Jethro,99
+PROD392,Smartphone,Unlocked basic smartphone,BLU,79
+PROD393,Wireless Headphones,Kids wireless headphones with volume limit,JBL,49
+PROD394,True Wireless Earbuds,Basic wireless earbuds,Generic,29
+PROD395,Smartwatch,Kids smartwatch with GPS tracking,TickTalk,149
+PROD396,Laptop,Refurbished Chromebook,Various,Varies
+PROD397,Tablet,7-inch budget Android tablet,Amazon Fire,59
+PROD398,Smart Speaker,Mini smart speaker puck,Amazon Echo Dot,39
+PROD399,4K Smart TV,32-inch Smart HD TV,Insignia,199
+PROD400,Portable Bluetooth Speaker,Clip-on portable speaker,JBL Clip,59
+PROD401,E-reader,Pocket-sized e-reader,PocketBook,129
+PROD402,Digital Camera,Waterproof point-and-shoot camera,Olympus,299
+PROD403,Gaming Console,Plug-and-play retro console,Atari,99
+PROD404,Fitness Tracker,Ankle fitness tracker for cycling/swimming,Polar,79
+PROD405,External Hard Drive,2TB portable SSD,SanDisk,179
+PROD406,Solid State Drive (SSD),2TB NVMe Gen3 SSD,Western Digital,199
+PROD407,Wireless Mouse,Wireless trackpad,Apple,129
+PROD408,Wireless Keyboard,Foldable Bluetooth keyboard for tablets,iClever,39
+PROD409,Webcam,1080p webcam with privacy shutter,HP,59
+PROD410,Router,Wi-Fi 6 extender,Netgear,99
+PROD411,Smart Lighting,Smart LED strip with music sync,Govee,49
+PROD412,Smart Thermostat,Wi-Fi thermostat with remote sensors,ecobee,299
+PROD413,Security Camera,Outdoor PTZ camera with wired connection,Lorex,199
+PROD414,Drone,Racing drone frame kit (DIY),iFlight,79
+PROD415,Projector,Ultra short-throw projector for gaming,BenQ,1299
+PROD416,Car Dash Cam,Rear-view mirror integrated dash cam,Wolfbox,149
+PROD417,GPS Navigation,Marine handheld GPS,Garmin,349
+PROD418,Portable Power Bank,Credit card-sized portable charger,Xiaomi,29
+PROD419,USB Hub,7-port USB 3.0 hub with power adapter,Anker,49
+PROD420,Surge Protector,Rotating outlet surge protector,360 Electrical,39
+PROD421,Smartphone,Budget smartphone with large display,Alcatel,99
+PROD422,Smartphone,Smartphone with stylus pen,Motorola,349
+PROD423,Wireless Headphones,Wireless earbuds with charging case,JBL,99
+PROD424,True Wireless Earbuds,Open-fit wireless earbuds,Huawei,129
+PROD425,Smartwatch,Analog smartwatch with hidden display,Withings,199
+PROD426,Laptop,17-inch budget gaming laptop,Lenovo,799
+PROD427,Tablet,8-inch Fire HD tablet with Kids Edition,Amazon,139
+PROD428,Smart Speaker,Portable Bluetooth smart speaker,Sonos,179
+PROD429,4K Smart TV,50-inch Roku Smart TV,TCL,399
+PROD430,Portable Bluetooth Speaker,Mini waterproof speaker with suction cup,Altec Lansing,39
+PROD431,E-reader,E-reader with audiobook support,Kobo,179
+PROD432,Digital Camera,Superzoom bridge camera,Nikon,399
+PROD433,Gaming Console,Used gaming console (various models),GameStop,Varies
+PROD434,Fitness Tracker,Chest strap heart rate monitor,Polar,69
+PROD435,External Hard Drive,8TB portable external drive,WD Black,179
+PROD436,Solid State Drive (SSD),2TB NVMe Gen4 budget SSD,Kingston,179
+PROD437,Wireless Mouse,Gaming mouse with wired/wireless option,Corsair,89
+PROD438,Wireless Keyboard,Ergonomic wireless split keyboard,Kinesis,299
+PROD439,Webcam,1080p webcam with auto low light correction,Razer,79
+PROD440,Router,Wi-Fi 5 extender with Ethernet port,TP-Link,49
+PROD441,Smart Lighting,Smart LED light bar for monitor backlight,Govee,59
+PROD442,Smart Thermostat,Smart fan controller,Caseta by Lutron,79
+PROD443,Security Camera,Hidden spy camera,SIRGAWAIN,49
+PROD444,Drone,Drone with obstacle avoidance,Autel Robotics,799
+PROD445,Projector,1080p home theater projector,BenQ,699
+PROD446,Car Dash Cam,Discreet mini dash cam,Blueskysea,79
+PROD447,GPS Navigation,Smart rearview mirror with GPS,AUTO-VOX,199
+PROD448,Portable Power Bank,High-capacity USB-C power bank,RAVPower,59
+PROD449,USB Hub,10-port USB 3.0 hub with charging,Plugable,69
+PROD450,Surge Protector,Power strip with individual switches,CyberPower,49
+PROD451,Smartphone,Durable flip phone with basic smart features,Kyocera,299
+PROD452,Smartphone,Unlocked mid-range smartphone,OnePlus,499
+PROD453,Wireless Headphones,Retro-style wireless headphones,Marshall,199
+PROD454,True Wireless Earbuds,Wireless earbuds with active noise reduction,Huawei,149
+PROD455,Smartwatch,Solar-powered tactical smartwatch,Garmin,599
+PROD456,Laptop,15-inch touchscreen laptop,HP Envy,999
+PROD457,Tablet,10-inch rugged outdoor tablet,Samsung,699
+PROD458,Smart Speaker,Smart speaker with built-in Zigbee hub,Amazon Echo,99
+PROD459,4K Smart TV,65-inch Roku QLED Smart TV,TCL,799
+PROD460,Portable Bluetooth Speaker,Floating waterproof Bluetooth speaker,Altec Lansing,99
+PROD461,E-reader,E-reader with large storage for manga,Onyx Boox,449
+PROD462,Digital Camera,Underwater digital camera,Sealife,349
+PROD463,Gaming Console,Portable retro handheld console,Anbernic,149
+PROD464,Fitness Tracker,Clip-on fitness tracker,Misfit,29
+PROD465,External Hard Drive,5TB portable game drive,Seagate,119
+PROD466,Solid State Drive (SSD),1TB portable SSD,Samsung,149
+PROD467,Wireless Mouse,Slim wireless travel mouse,Microsoft,39
+PROD468,Wireless Keyboard,Wireless numeric keypad,Logitech,29
+PROD469,Webcam,4K webcam with wide field of view,Anker,129
+PROD470,Router,Wi-Fi 6 mesh system (2-pack),TP-Link,199
+PROD471,Smart Lighting,Smart plug with energy monitoring,TP-Link Kasa,19
+PROD472,Smart Thermostat,Smart vent controller,Keen Home,99
+PROD473,Security Camera,Bird feeder camera with AI detection,Bird Buddy,249
+PROD474,Drone,Waterproof drone,Swellpro,1499
+PROD475,Projector,Ceiling-mounted home theater projector,Optoma,799
+PROD476,Car Dash Cam,Wireless battery-powered dash cam,Logitech,199
+PROD477,GPS Navigation,Bike GPS computer,Garmin,249
+PROD478,Portable Power Bank,Mini lipstick-sized portable charger,Aukey,19
+PROD479,USB Hub,USB-C to Ethernet adapter with USB ports,Anker,34
+PROD480,Surge Protector,Under-desk power strip with surge protection,AmazonBasics,29
+PROD481,Smartphone,Push-to-talk rugged smartphone,Sonim,499
+PROD482,Smartphone,Unlocked budget Android phone,Nokia,149
+PROD483,Wireless Headphones,Wireless neckband headphones,Sony,99
+PROD484,True Wireless Earbuds,Wireless earbuds with UV cleaning case,Cleer,149
+PROD485,Smartwatch,Fashion smartwatch with AMOLED display,Huawei,199
+PROD486,Laptop,17-inch workstation laptop,Dell Precision,2999
+PROD487,Tablet,10-inch Chrome OS tablet,Lenovo,329
+PROD488,Smart Speaker,Smart speaker with built-in air quality sensor,Amazon Echo,129
+PROD489,4K Smart TV,70-inch Vizio Smart TV,Vizio,699
+PROD490,Portable Bluetooth Speaker,Solar-powered Bluetooth speaker, Eton,99
+PROD491,E-reader,E-reader with large buttons for easy use,Tolino,139
+PROD492,Digital Camera,Instant camera with printer,Fujifilm Instax,99
+PROD493,Gaming Console,Streaming device for cloud gaming,Nvidia Shield,199
+PROD494,Fitness Tracker,Smart scale with Wi-Fi connectivity,Eufy,69
+PROD495,External Hard Drive,14TB desktop external drive,Toshiba,279
+PROD496,Solid State Drive (SSD),2TB portable NVMe SSD,Crucial,249
+PROD497,Wireless Mouse,Ergonomic vertical wireless trackball mouse,Kensington,79
+PROD498,Wireless Keyboard,Wireless keyboard with number pad,Logitech,59
+PROD499,Webcam,Wireless security camera that works as a webcam,Blink,79
+PROD500,Router,Portable travel router,GL.iNet,59

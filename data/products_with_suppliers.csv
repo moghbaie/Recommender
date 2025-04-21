@@ -1,0 +1,977 @@
+ProductID,Supplier,Supplier Return Policy,Adjusted Price (USD),Supplier_ID,Return Policy Rank,Description
+PROD001,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",837.9731684531537,S5,1,Flagship smartphone with advanced camera and processing power
+PROD001,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1005.5175277094435,S3,4,Flagship smartphone with advanced camera and processing power
+PROD002,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",866.0068891407194,S3,4,Android smartphone with high refresh rate display and versatile camera
+PROD002,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",959.5167686381615,S1,3,Android smartphone with high refresh rate display and versatile camera
+PROD002,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",997.0545530914005,S9,1,Android smartphone with high refresh rate display and versatile camera
+PROD003,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",347.88643572367897,S4,3,Over-ear headphones with active noise cancellation and long battery life
+PROD003,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",360.0703164766859,S1,3,Over-ear headphones with active noise cancellation and long battery life
+PROD003,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",409.17092231327166,S6,4,Over-ear headphones with active noise cancellation and long battery life
+PROD004,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",271.2174152889578,S6,4,Compact earbuds with comfortable fit and good sound quality
+PROD005,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",392.5976338098536,S7,2,Feature-rich smartwatch with health tracking and app integration
+PROD006,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",681.8355197511826,S5,1,Ultraportable laptop for everyday use and productivity
+PROD006,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",895.7396763606644,S6,4,Ultraportable laptop for everyday use and productivity
+PROD006,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1020.4300772688864,S7,2,Ultraportable laptop for everyday use and productivity
+PROD007,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",524.2674347861947,S2,2,Versatile tablet for entertainment creativity and productivity
+PROD007,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",505.8950191015848,S3,4,Versatile tablet for entertainment creativity and productivity
+PROD008,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",76.55608487239301,S5,1,Voice-activated smart speaker with virtual assistant
+PROD008,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",98.66321344294406,S4,3,Voice-activated smart speaker with virtual assistant
+PROD009,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",685.062263622707,S7,2,55-inch Ultra HD television with smart features and HDR support
+PROD009,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",804.1385278057757,S1,3,55-inch Ultra HD television with smart features and HDR support
+PROD010,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",123.47888045776938,S4,3,Rugged and waterproof speaker for outdoor use
+PROD010,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",154.55113458332792,S2,2,Rugged and waterproof speaker for outdoor use
+PROD011,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",108.84474765041166,S5,1,Dedicated device for reading digital books with long battery life
+PROD011,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",151.14036821768988,S2,2,Dedicated device for reading digital books with long battery life
+PROD012,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",1215.1310056739894,S8,5,Mirrorless camera for photography enthusiasts
+PROD012,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",1335.1407528273369,S1,3,Mirrorless camera for photography enthusiasts
+PROD012,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1324.1383105572688,S7,2,Mirrorless camera for photography enthusiasts
+PROD013,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",442.80948262823046,S3,4,High-performance console for immersive gaming experiences
+PROD014,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",169.42523528324008,S2,2,Wearable device for tracking activity sleep and heart rate
+PROD014,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",137.22220736838887,S4,3,Wearable device for tracking activity sleep and heart rate
+PROD014,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",155.03704294268667,S1,3,Wearable device for tracking activity sleep and heart rate
+PROD015,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",60.89229413166865,S6,4,1TB portable external hard drive for data backup and storage
+PROD015,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",56.96559572352241,S4,3,1TB portable external hard drive for data backup and storage
+PROD016,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",116.40016377682788,S3,4,1TB internal SSD for faster computer performance
+PROD016,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",124.54826771868079,S6,4,1TB internal SSD for faster computer performance
+PROD016,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",135.0736907340618,S7,2,1TB internal SSD for faster computer performance
+PROD017,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",48.06818324559547,S4,3,Ergonomic wireless mouse for comfortable computer navigation
+PROD017,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",46.66790957194483,S3,4,Ergonomic wireless mouse for comfortable computer navigation
+PROD017,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",48.15709494496588,S8,5,Ergonomic wireless mouse for comfortable computer navigation
+PROD018,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",86.61375658107285,S1,3,Full-size wireless keyboard for comfortable typing
+PROD018,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",93.19547977074139,S7,2,Full-size wireless keyboard for comfortable typing
+PROD018,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",77.60274515063936,S5,1,Full-size wireless keyboard for comfortable typing
+PROD019,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",79.10726380557077,S6,4,High-definition webcam for video conferencing
+PROD019,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",69.91297588563768,S4,3,High-definition webcam for video conferencing
+PROD020,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",163.0183405696482,S4,3,Wi-Fi 6 router for fast and reliable home network
+PROD020,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",150.46307778879057,S2,2,Wi-Fi 6 router for fast and reliable home network
+PROD020,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",145.91914442026393,S3,4,Wi-Fi 6 router for fast and reliable home network
+PROD021,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",48.56701324509756,S4,3,Smart LED bulb that can be controlled via app or voice assistant
+PROD021,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",58.49334055660498,S2,2,Smart LED bulb that can be controlled via app or voice assistant
+PROD021,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",46.21899653011912,S3,4,Smart LED bulb that can be controlled via app or voice assistant
+PROD022,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",216.43991568125065,S2,2,Wi-Fi enabled thermostat for remote temperature control and energy savings
+PROD022,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",200.34636201356287,S3,4,Wi-Fi enabled thermostat for remote temperature control and energy savings
+PROD022,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",200.7048573276525,S10,3,Wi-Fi enabled thermostat for remote temperature control and energy savings
+PROD023,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",69.3,S5,1,Wireless indoor/outdoor security camera with motion detection
+PROD024,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",828.6043631942129,S6,4,Compact drone with camera for aerial photography and videography
+PROD024,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",787.7662289682577,S4,3,Compact drone with camera for aerial photography and videography
+PROD024,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",672.4763246596332,S8,5,Compact drone with camera for aerial photography and videography
+PROD025,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",304.4485644427396,S4,3,Portable projector for home theater or presentations
+PROD025,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",251.7339313565795,S5,1,Portable projector for home theater or presentations
+PROD026,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",173.25974596380541,S6,4,High-resolution dashboard camera for recording driving footage
+PROD026,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",152.7696202604283,S1,3,High-resolution dashboard camera for recording driving footage
+PROD026,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",193.70000000000002,S2,2,High-resolution dashboard camera for recording driving footage
+PROD027,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",202.76224327140525,S9,1,Dedicated GPS device for in-car navigation
+PROD028,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",55.27956175231686,S1,3,High-capacity portable charger for smartphones and other devices
+PROD029,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",31.87694418094566,S9,1,Multi-port USB hub for expanding connectivity
+PROD029,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",30.660228219524313,S2,2,Multi-port USB hub for expanding connectivity
+PROD029,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",34.54297024986553,S6,4,Multi-port USB hub for expanding connectivity
+PROD030,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",39.03819610460726,S10,3,Power strip with surge protection to safeguard electronics
+PROD030,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",50.39136973965499,S7,2,Power strip with surge protection to safeguard electronics
+PROD030,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",40.81671188988383,S4,3,Power strip with surge protection to safeguard electronics
+PROD031,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",397.57212966222573,S5,1,Mid-range smartphone with good battery life
+PROD032,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",192.22502492566696,S10,3,Budget-friendly smartphone with essential features
+PROD033,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",60.451302102296204,S2,2,Budget-friendly over-ear headphones
+PROD033,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",62.3184510322073,S1,3,Budget-friendly over-ear headphones
+PROD034,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",161.32329595023344,S5,1,Water-resistant earbuds for workouts
+PROD035,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",84.37288894677773,S6,4,Basic fitness tracker with smartwatch features
+PROD036,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",493.5659659115551,S9,1,Chromebook for cloud-based productivity
+PROD037,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",221.80725593762165,S5,1,Android tablet for media consumption
+PROD038,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",63.7,S9,1,Compact smart speaker
+PROD038,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",60.9143021520115,S7,2,Compact smart speaker
+PROD038,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",42.996415634444844,S5,1,Compact smart speaker
+PROD039,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",963.672658519691,S7,2,65-inch Ultra HD television with local dimming
+PROD040,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",58.569913528601546,S7,2,Mini and ultra-portable speaker
+PROD041,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",173.20737027073392,S2,2,Waterproof e-reader for reading by the pool or bath
+PROD042,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",467.0521240681138,S5,1,Entry-level DSLR camera
+PROD042,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",548.8111170538649,S1,3,Entry-level DSLR camera
+PROD042,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",541.0127219321663,S8,5,Entry-level DSLR camera
+PROD043,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",300.7038164960116,S7,2,Portable gaming console
+PROD043,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",296.85798860427514,S3,4,Portable gaming console
+PROD044,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",56.85908969272348,S9,1,Simple step counter and sleep tracker
+PROD045,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",68.20584374995566,S3,4,2TB desktop external hard drive
+PROD046,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",71.07845157976975,S4,3,500GB NVMe SSD for high-speed performance
+PROD047,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",47.93334858216944,S9,1,Silent wireless mouse
+PROD047,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",36.64723091289218,S8,5,Silent wireless mouse
+PROD048,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",88.01400638354217,S3,4,Compact wireless keyboard with trackpad
+PROD049,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",218.64042212364916,S6,4,4K webcam for professional video calls
+PROD050,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",278.57877361833175,S4,3,Mesh Wi-Fi system for whole-home coverage
+PROD050,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",320.9063064425733,S7,2,Mesh Wi-Fi system for whole-home coverage
+PROD051,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",40.156835581508254,S4,3,Color-changing smart LED strip
+PROD051,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",41.07297458403082,S1,3,Color-changing smart LED strip
+PROD052,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",255.3744455559378,S4,3,Learning thermostat with energy usage reports
+PROD052,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",251.5030024021681,S6,4,Learning thermostat with energy usage reports
+PROD052,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",265.6479586199488,S7,2,Learning thermostat with energy usage reports
+PROD053,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",36.375749285292684,S8,5,Pan-tilt indoor security camera
+PROD054,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",111.36238967296774,S1,3,Beginner-friendly mini drone
+PROD055,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",909.5407136655559,S6,4,Short-throw projector
+PROD055,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",760.4057784612478,S4,3,Short-throw projector
+PROD055,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",1038.7,S2,2,Short-throw projector
+PROD056,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",220.23809654128306,S7,2,Dual-lens dash cam with front and rear recording
+PROD056,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",217.60719987553432,S4,3,Dual-lens dash cam with front and rear recording
+PROD056,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",191.39493906006388,S6,4,Dual-lens dash cam with front and rear recording
+PROD057,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",254.58970568565445,S5,1,Motorcycle GPS device
+PROD057,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",303.66134920703433,S6,4,Motorcycle GPS device
+PROD058,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",27.09080340420439,S3,4,Ultra-slim portable charger
+PROD059,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",47.378370553452385,S10,3,Powered USB hub with individual switches
+PROD059,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",49.634878466463725,S6,4,Powered USB hub with individual switches
+PROD060,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",30.093101777320385,S10,3,Wall-mounted surge protector with USB ports
+PROD061,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",514.5026995384605,S5,1,Rugged smartphone for outdoor activities
+PROD061,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",489.91424210261346,S8,5,Rugged smartphone for outdoor activities
+PROD061,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",688.3965017474333,S2,2,Rugged smartphone for outdoor activities
+PROD062,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",1793.2918073939006,S2,2,Foldable smartphone
+PROD063,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",458.5753292972297,S3,4,Audiophile-grade wireless headphones
+PROD064,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",326.7358489642031,S9,1,Premium earbuds with exceptional audio fidelity
+PROD064,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",260.4414088219233,S8,5,Premium earbuds with exceptional audio fidelity
+PROD064,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",314.2231033841554,S4,3,Premium earbuds with exceptional audio fidelity
+PROD065,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",211.74640180368968,S4,3,Hybrid smartwatch with analog hands and smart features
+PROD065,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",235.28932864434043,S1,3,Hybrid smartwatch with analog hands and smart features
+PROD066,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1331.4008826461416,S3,4,Gaming laptop with dedicated graphics card
+PROD067,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",376.07404195986027,S10,3,Graphic tablet with stylus for digital art
+PROD067,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",428.3737141431058,S9,1,Graphic tablet with stylus for digital art
+PROD068,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",193.70000000000002,S9,1,Smart display with a screen
+PROD069,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",2462.8383784741827,S6,4,75-inch OLED Ultra HD television
+PROD070,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",359.439182656586,S9,1,Party speaker with lights and karaoke features
+PROD071,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",454.8404387667462,S2,2,Large-screen e-reader for PDFs and magazines
+PROD071,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",394.40460619841684,S1,3,Large-screen e-reader for PDFs and magazines
+PROD072,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",2131.5754381408065,S8,5,Full-frame mirrorless camera
+PROD072,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",2376.291338375949,S10,3,Full-frame mirrorless camera
+PROD073,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",350.1803479904136,S7,2,All-digital gaming console
+PROD073,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",316.1525217049767,S6,4,All-digital gaming console
+PROD073,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",231.50769734918316,S5,1,All-digital gaming console
+PROD074,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",312.5952384902071,S2,2,Advanced fitness tracker with ECG and SpO2 monitoring
+PROD074,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",289.2066701165679,S5,1,Advanced fitness tracker with ECG and SpO2 monitoring
+PROD075,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",128.70000000000002,S7,2,4TB portable external hard drive
+PROD075,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",128.70000000000002,S9,1,4TB portable external hard drive
+PROD075,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",90.32079517664867,S6,4,4TB portable external hard drive
+PROD076,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",214.1650086778498,S7,2,2TB SATA SSD for large storage capacity
+PROD077,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",35.97598562726507,S7,2,Vertical ergonomic wireless mouse
+PROD077,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",35.5064980729209,S2,2,Vertical ergonomic wireless mouse
+PROD078,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",144.98486103322992,S1,3,Mechanical wireless keyboard for tactile typing
+PROD079,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",269.51345996271095,S5,1,PTZ (Pan-Tilt-Zoom) webcam for professional setups
+PROD079,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",297.02903581877854,S3,4,PTZ (Pan-Tilt-Zoom) webcam for professional setups
+PROD080,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",230.8403671007619,S6,4,Tri-band Wi-Fi router for demanding networks
+PROD080,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",299.88051381018056,S7,2,Tri-band Wi-Fi router for demanding networks
+PROD080,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",323.7,S2,2,Tri-band Wi-Fi router for demanding networks
+PROD081,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",152.60381898500245,S7,2,Outdoor smart spotlights
+PROD081,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",141.19904045335778,S2,2,Outdoor smart spotlights
+PROD081,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",143.369041363874,S10,3,Outdoor smart spotlights
+PROD082,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",151.6076098586043,S5,1,Smart thermostat with voice control
+PROD083,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",167.35537985754078,S5,1,Solar-powered wireless security camera
+PROD083,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",221.42405345046404,S6,4,Solar-powered wireless security camera
+PROD084,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",2084.238803302769,S6,4,Professional-grade drone with advanced camera and features
+PROD085,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",3637.7160572094663,S4,3,Ultra short-throw laser projector
+PROD086,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",299.51388249630355,S3,4,4K dash cam with GPS and parking monitoring
+PROD086,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",220.84991549735818,S5,1,4K dash cam with GPS and parking monitoring
+PROD087,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",993.2061440443533,S7,2,Aviation GPS device
+PROD088,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",354.8449857828283,S8,5,Power station for laptops and appliances
+PROD089,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",323.7,S9,1,Thunderbolt USB hub
+PROD090,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",105.15981328491904,S3,4,Rack-mounted surge protector
+PROD090,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",103.676945969136,S4,3,Rack-mounted surge protector
+PROD090,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",105.85949080135303,S1,3,Rack-mounted surge protector
+PROD091,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",867.7332378941146,S6,4,Gaming-focused smartphone with high refresh rate and cooling system
+PROD091,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",695.3202602559095,S4,3,Gaming-focused smartphone with high refresh rate and cooling system
+PROD092,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",767.6678851876392,S10,3,Privacy-focused smartphone with enhanced security features
+PROD092,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",703.6934645330188,S6,4,Privacy-focused smartphone with enhanced security features
+PROD093,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",547.6891556285706,S5,1,Open-back wireless headphones
+PROD093,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",685.2163030291407,S9,1,Open-back wireless headphones
+PROD094,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",168.19574943336767,S9,1,Bone conduction wireless earbuds
+PROD094,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",145.16235173296917,S10,3,Bone conduction wireless earbuds
+PROD094,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",151.01701273366425,S7,2,Bone conduction wireless earbuds
+PROD095,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",620.6143215766072,S6,4,Dive smartwatch with advanced underwater features
+PROD095,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",732.713627658017,S7,2,Dive smartwatch with advanced underwater features
+PROD095,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",758.3183280832169,S2,2,Dive smartwatch with advanced underwater features
+PROD096,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1279.0536308053279,S3,4,2-in-1 convertible laptop
+PROD096,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1156.544701085403,S7,2,2-in-1 convertible laptop
+PROD096,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",1387.3668663372198,S1,3,2-in-1 convertible laptop
+PROD097,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",1734.714123429728,S1,3,Rugged tablet for industrial use
+PROD097,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",1301.4339038090145,S5,1,Rugged tablet for industrial use
+PROD097,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",1583.4499815403262,S4,3,Rugged tablet for industrial use
+PROD098,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",245.51239353175154,S3,4,High-fidelity smart speaker
+PROD098,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",242.80306437645473,S1,3,High-fidelity smart speaker
+PROD098,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",181.59240652393177,S5,1,High-fidelity smart speaker
+PROD099,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",3385.8256717112663,S9,1,85-inch QLED Ultra HD television
+PROD100,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",174.57118788096537,S1,3,Waterproof speaker with 360-degree sound
+PROD100,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",192.50558360868888,S7,2,Waterproof speaker with 360-degree sound
+PROD101,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",876.723638328363,S1,3,Compact smartphone with excellent camera
+PROD102,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",354.2198813506375,S4,3,Android One smartphone with clean interface
+PROD102,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",413.3706680041156,S9,1,Android One smartphone with clean interface
+PROD103,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",295.4684326117076,S1,3,Noise-canceling earbuds with personalized sound
+PROD103,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",346.47250682834385,S6,4,Noise-canceling earbuds with personalized sound
+PROD104,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",54.35695279916308,S9,1,Affordable earbuds with decent sound quality
+PROD105,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",368.8141375414441,S5,1,Rugged outdoor smartwatch with long battery life
+PROD106,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",896.5426647261479,S5,1,Thin and light business laptop with strong security features
+PROD106,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",1115.874084487156,S4,3,Thin and light business laptop with strong security features
+PROD107,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",419.01339576477824,S2,2,Small and portable tablet
+PROD107,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",270.87988931554554,S5,1,Small and portable tablet
+PROD107,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",285.9536731009594,S7,2,Small and portable tablet
+PROD108,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",201.17820852944288,S3,4,Portable smart speaker with Wi-Fi and Bluetooth
+PROD108,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",180.55803152633658,S8,5,Portable smart speaker with Wi-Fi and Bluetooth
+PROD109,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",775.9292950689035,S2,2,50-inch Ultra HD TV with voice control
+PROD109,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",597.3572827788,S6,4,50-inch Ultra HD TV with voice control
+PROD110,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",187.68933433759344,S2,2,Waterproof speaker with bass boost
+PROD110,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",178.15386353181697,S3,4,Waterproof speaker with bass boost
+PROD110,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",176.63835366216588,S10,3,Waterproof speaker with bass boost
+PROD111,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",86.55434069194332,S4,3,Basic e-reader with glare-free screen
+PROD111,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",88.59701692324818,S7,2,Basic e-reader with glare-free screen
+PROD111,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",68.9198830680882,S8,5,Basic e-reader with glare-free screen
+PROD112,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",444.02819667260155,S8,5,Bridge camera with long zoom lens
+PROD112,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",490.36369226325485,S7,2,Bridge camera with long zoom lens
+PROD112,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",485.0284756629311,S4,3,Bridge camera with long zoom lens
+PROD113,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",514.755671272548,S1,3,Next-gen console with high frame rates
+PROD114,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",35.74701248086356,S8,5,Waterproof fitness band for swimming
+PROD115,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",102.2701069017906,S8,5,5TB desktop external storage
+PROD116,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",43.02064919132821,S6,4,250GB internal SSD for boot drive
+PROD116,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",36.66657018667399,S8,5,250GB internal SSD for boot drive
+PROD116,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",35.36937057768656,S5,1,250GB internal SSD for boot drive
+PROD117,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",79.37971889289513,S9,1,Gaming wireless mouse with customizable buttons
+PROD117,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",85.7054753283429,S7,2,Gaming wireless mouse with customizable buttons
+PROD117,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",64.16430891541825,S8,5,Gaming wireless mouse with customizable buttons
+PROD118,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",148.90104923624148,S9,1,Ergonomic split wireless keyboard
+PROD118,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",129.9344931732586,S2,2,Ergonomic split wireless keyboard
+PROD118,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",131.44745135834546,S3,4,Ergonomic split wireless keyboard
+PROD119,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",45.167237534427095,S6,4,1080p webcam with wide-angle lens
+PROD120,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",34.3,S5,1,Budget-friendly Wi-Fi 5 router
+PROD120,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",45.70098852598306,S3,4,Budget-friendly Wi-Fi 5 router
+PROD121,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",87.32781886714429,S1,3,Smart LED floodlight for outdoor use
+PROD121,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",96.75059455390428,S7,2,Smart LED floodlight for outdoor use
+PROD122,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",74.07189776006115,S8,5,Entry-level smart thermostat
+PROD123,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",212.97062323254613,S7,2,Wireless doorbell camera
+PROD123,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",227.96194488178344,S9,1,Wireless doorbell camera
+PROD124,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",446.31839198695315,S10,3,Foldable mini drone with HD camera
+PROD124,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",390.5516946365369,S3,4,Foldable mini drone with HD camera
+PROD125,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",282.30225866066036,S5,1,Mini portable projector with built-in battery
+PROD125,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",422.3755956704232,S1,3,Mini portable projector with built-in battery
+PROD126,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",71.63435008966748,S8,5,Compact dash cam with loop recording
+PROD126,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",81.10298801734646,S10,3,Compact dash cam with loop recording
+PROD127,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",459.5335271768471,S9,1,Truck-specific GPS device
+PROD128,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",41.32776186216403,S6,4,Wireless portable charger
+PROD128,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",40.47674290351043,S4,3,Wireless portable charger
+PROD128,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",30.11189077179976,S5,1,Wireless portable charger
+PROD129,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",70.8991912741928,S9,1,USB-C hub with multiple ports
+PROD130,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",70.99348292347857,S2,2,Heavy-duty surge protector with long cord
+PROD130,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",76.7,S9,1,Heavy-duty surge protector with long cord
+PROD131,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",351.2898243375808,S8,5,Affordable 5G smartphone
+PROD131,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",477.24200127948103,S6,4,Affordable 5G smartphone
+PROD132,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",633.8219852014681,S4,3,Smartphone with a focus on photography
+PROD132,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",636.7449831849368,S2,2,Smartphone with a focus on photography
+PROD132,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",544.1723515819666,S10,3,Smartphone with a focus on photography
+PROD133,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",166.10471269368927,S9,1,Sport wireless headphones with secure fit
+PROD133,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",159.41257820773185,S2,2,Sport wireless headphones with secure fit
+PROD134,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",198.87338442963664,S1,3,Noise-isolating earbuds for focused listening
+PROD135,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",307.16359068977056,S2,2,Fashion-forward smartwatch
+PROD135,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",287.404554362097,S10,3,Fashion-forward smartwatch
+PROD135,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",346.9633750288774,S9,1,Fashion-forward smartwatch
+PROD136,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",1720.2151231274672,S10,3,High-performance workstation laptop
+PROD136,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",2084.3275884361774,S9,1,High-performance workstation laptop
+PROD137,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",667.2062362692249,S4,3,Large Android tablet for productivity
+PROD137,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",626.9696000548818,S3,4,Large Android tablet for productivity
+PROD137,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",634.8333971309547,S1,3,Large Android tablet for productivity
+PROD138,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",146.4810652586269,S7,2,Smart speaker with integrated display
+PROD139,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",1038.7,S9,1,70-inch Ultra HD TV with Dolby Vision
+PROD140,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",393.48700748711855,S6,4,Ultra-powerful party speaker
+PROD140,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",338.58995044787184,S4,3,Ultra-powerful party speaker
+PROD141,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",139.9240390448915,S7,2,E-reader with warm light adjustment
+PROD141,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",109.8417401259819,S5,1,E-reader with warm light adjustment
+PROD142,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",547.9436719200537,S3,4,Advanced bridge camera with RAW support
+PROD142,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",578.7407860312896,S4,3,Advanced bridge camera with RAW support
+PROD142,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",647.5206624609607,S1,3,Advanced bridge camera with RAW support
+PROD143,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",381.54950045666965,S4,3,Handheld gaming PC
+PROD143,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",443.29390900647456,S7,2,Handheld gaming PC
+PROD143,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",373.47592425690783,S3,4,Handheld gaming PC
+PROD144,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",214.3920703373143,S2,2,GPS-enabled fitness tracker
+PROD145,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",174.4640219004525,S1,3,8TB desktop storage solution
+PROD145,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",164.6682155996242,S4,3,8TB desktop storage solution
+PROD145,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",174.39376684563095,S2,2,8TB desktop storage solution
+PROD146,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",161.94592718821488,S8,5,1TB NVMe Gen4 SSD
+PROD147,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",65.72289193523099,S4,3,Trackball wireless mouse
+PROD148,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",42.34434720861008,S8,5,Compact Bluetooth keyboard for travel
+PROD149,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",100.26023311956581,S6,4,Streamer webcam with ring light
+PROD149,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",100.87782715361354,S7,2,Streamer webcam with ring light
+PROD149,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",99.80860314605526,S4,3,Streamer webcam with ring light
+PROD150,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",276.5244953342408,S7,2,Wi-Fi 6E router for the latest devices
+PROD151,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",108.82269811717316,S1,3,Indoor smart table lamp
+PROD152,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",273.8748027731396,S4,3,Smart thermostat for multi-zone control
+PROD152,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",350.3066162121095,S6,4,Smart thermostat for multi-zone control
+PROD153,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",221.61465652942852,S8,5,Wireless floodlight camera
+PROD154,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",1124.2363004293763,S10,3,Cinematic drone with 4K video recording
+PROD155,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1828.7784344404188,S7,2,4K home theater projector
+PROD155,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",2310.751384303189,S9,1,4K home theater projector
+PROD155,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",2141.537550079979,S1,3,4K home theater projector
+PROD156,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",238.850386132829,S1,3,3-channel dash cam with interior recording
+PROD157,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",885.5779508857431,S8,5,Marine GPS chartplotter
+PROD157,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",982.157365304778,S7,2,Marine GPS chartplotter
+PROD157,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",1298.7,S6,4,Marine GPS chartplotter
+PROD158,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",68.33051859297319,S8,5,Solar-powered portable charger
+PROD159,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",39.33467651726563,S1,3,USB 3.0 hub with charging ports
+PROD159,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",49.83538526363882,S2,2,USB 3.0 hub with charging ports
+PROD159,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",38.780807665726215,S3,4,USB 3.0 hub with charging ports
+PROD160,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",61.128017255048434,S2,2,USB charging station with surge protection
+PROD160,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",44.73856870266693,S10,3,USB charging station with surge protection
+PROD160,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",51.12462761512488,S3,4,USB charging station with surge protection
+PROD161,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",567.0176528311265,S6,4,Durable and water-resistant smartphone
+PROD161,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",582.189582948483,S9,1,Durable and water-resistant smartphone
+PROD161,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",526.6217244948491,S3,4,Durable and water-resistant smartphone
+PROD162,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",287.14843186510547,S7,2,Smartphone with a focus on battery life
+PROD162,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",372.2851545097314,S9,1,Smartphone with a focus on battery life
+PROD163,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",284.4066695804831,S4,3,True wireless active noise cancelling earbuds
+PROD164,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",37.808513418485234,S4,3,Budget-friendly sport earbuds
+PROD165,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",2086.8902874911805,S4,3,Luxury smartwatch with premium materials
+PROD166,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",1490.565897399615,S10,3,Creator laptop with professional graphics
+PROD167,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",436.95533174549587,S1,3,E-ink tablet for writing and reading
+PROD167,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",378.0344228031893,S10,3,E-ink tablet for writing and reading
+PROD168,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",262.1515378540914,S4,3,Portable smart speaker with long battery
+PROD168,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",242.76770696882753,S8,5,Portable smart speaker with long battery
+PROD168,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",231.60995257229447,S3,4,Portable smart speaker with long battery
+PROD169,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",503.7257343894229,S9,1,58-inch Ultra HD TV with HDR10+
+PROD169,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",570.4532821627495,S1,3,58-inch Ultra HD TV with HDR10+
+PROD170,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",314.607263346349,S1,3,Compact and stylish speaker
+PROD170,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",258.8164701726429,S7,2,Compact and stylish speaker
+PROD171,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",504.01722136157974,S4,3,Color e-reader for comics and magazines
+PROD171,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",625.3156600106477,S9,1,Color e-reader for comics and magazines
+PROD171,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",484.80784108447006,S1,3,Color e-reader for comics and magazines
+PROD172,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",720.921838579866,S4,3,Micro Four Thirds mirrorless camera
+PROD172,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",843.3647434477067,S2,2,Micro Four Thirds mirrorless camera
+PROD173,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",224.71084726339674,S2,2,Retro gaming console with classic games
+PROD173,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",192.0511207369671,S7,2,Retro gaming console with classic games
+PROD173,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",161.27305317476328,S5,1,Retro gaming console with classic games
+PROD174,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",89.99548737859087,S8,5,Wristband with heart rate and blood oxygen
+PROD175,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",231.83748190519054,S7,2,10TB desktop NAS drive
+PROD175,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",260.4097301493264,S6,4,10TB desktop NAS drive
+PROD176,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",250.94695849724323,S3,4,2TB NVMe Gen4 high-speed SSD
+PROD177,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",67.92051626560765,S10,3,Left-handed ergonomic wireless mouse
+PROD177,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",74.94003679512943,S6,4,Left-handed ergonomic wireless mouse
+PROD177,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",59.32814218069279,S3,4,Left-handed ergonomic wireless mouse
+PROD178,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",159.64890477371983,S2,2,Wireless mechanical keyboard with RGB lighting
+PROD179,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",229.43381489095694,S2,2,AI-powered webcam with auto-framing
+PROD179,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",216.696345498659,S4,3,AI-powered webcam with auto-framing
+PROD179,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",250.08939711294676,S1,3,AI-powered webcam with auto-framing
+PROD180,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",288.5635713436321,S9,1,Gaming router with low latency features
+PROD180,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",290.8147513626399,S4,3,Gaming router with low latency features
+PROD180,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",222.49506162211452,S5,1,Gaming router with low latency features
+PROD181,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",124.85264253853965,S10,3,Smart outdoor pathway lights
+PROD182,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",196.71794323602066,S8,5,Wi-Fi thermostat with occupancy sensor
+PROD182,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",236.33056611951903,S4,3,Wi-Fi thermostat with occupancy sensor
+PROD183,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",329.1214177240992,S6,4,PTZ outdoor security camera with zoom
+PROD183,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",267.9520184888392,S5,1,PTZ outdoor security camera with zoom
+PROD183,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",358.1709771011561,S2,2,PTZ outdoor security camera with zoom
+PROD184,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",640.2482456157536,S6,4,FPV (First-Person View) racing drone
+PROD184,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",748.8796465585197,S7,2,FPV (First-Person View) racing drone
+PROD184,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",526.6817350755817,S3,4,FPV (First-Person View) racing drone
+PROD185,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",789.8884302522973,S2,2,Portable LED projector with Wi-Fi
+PROD185,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",650.8980319615865,S6,4,Portable LED projector with Wi-Fi
+PROD185,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",658.4604586809465,S3,4,Portable LED projector with Wi-Fi
+PROD186,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",128.07227306172817,S10,3,Mirror dash cam with front and rear view
+PROD186,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",120.95584721535671,S1,3,Mirror dash cam with front and rear view
+PROD187,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",349.0477478708167,S7,2,Handheld GPS device for hiking
+PROD188,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",74.75519394249667,S4,3,Ultra-high capacity power bank for multiple devices
+PROD188,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",73.26229411966358,S3,4,Ultra-high capacity power bank for multiple devices
+PROD188,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",66.13242455797668,S8,5,Ultra-high capacity power bank for multiple devices
+PROD189,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",388.7,S6,4,USB-C docking station with multiple display outputs
+PROD189,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",273.3373739440078,S1,3,USB-C docking station with multiple display outputs
+PROD190,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",138.70540760682348,S10,3,Power conditioner with voltage regulation
+PROD190,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",159.186946663674,S1,3,Power conditioner with voltage regulation
+PROD190,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",145.2308502025358,S7,2,Power conditioner with voltage regulation
+PROD191,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",772.6861380978494,S7,2,Satellite communication smartphone
+PROD191,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",671.6022318208703,S8,5,Satellite communication smartphone
+PROD192,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",490.66662250993875,S3,4,Business-oriented smartphone with enhanced security
+PROD192,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",563.096115673744,S1,3,Business-oriented smartphone with enhanced security
+PROD192,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",467.95618261746665,S4,3,Business-oriented smartphone with enhanced security
+PROD193,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",745.9380274723711,S6,4,Planar magnetic wireless headphones
+PROD194,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",228.814829844262,S10,3,Spatial audio earbuds with head tracking
+PROD194,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",323.7,S9,1,Spatial audio earbuds with head tracking
+PROD194,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",281.7213530268043,S6,4,Spatial audio earbuds with head tracking
+PROD195,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",342.50694024122527,S7,2,GPS running smartwatch with advanced metrics
+PROD196,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",1966.886080421971,S6,4,Mobile workstation with ISV certifications
+PROD196,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",2465.3762657290918,S7,2,Mobile workstation with ISV certifications
+PROD197,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",857.1368306636185,S7,2,Waterproof and dustproof tablet
+PROD197,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",672.4569299976108,S3,4,Waterproof and dustproof tablet
+PROD198,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",265.50453833874525,S10,3,Multi-room audio smart speaker
+PROD199,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",959.5811169150072,S5,1,65-inch Mini-LED Ultra HD TV
+PROD200,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",230.34811042662332,S9,1,Retro-style Bluetooth speaker
+PROD200,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",276.4303752875202,S2,2,Retro-style Bluetooth speaker
+PROD201,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",715.5424384138885,S3,4,Camera-centric smartphone with large sensor
+PROD201,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",790.4518108223336,S6,4,Camera-centric smartphone with large sensor
+PROD202,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",209.29999999999998,S5,1,Value-oriented 5G smartphone
+PROD202,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",271.7307733647856,S1,3,Value-oriented 5G smartphone
+PROD202,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",370.2595495826614,S7,2,Value-oriented 5G smartphone
+PROD203,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",512.6697933605933,S2,2,Over-ear headphones with touch controls
+PROD203,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",450.3218033783012,S7,2,Over-ear headphones with touch controls
+PROD204,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",177.44120204686757,S3,4,ANC earbuds with transparency mode
+PROD204,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",132.36164147673122,S5,1,ANC earbuds with transparency mode
+PROD204,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",181.12423281558281,S2,2,ANC earbuds with transparency mode
+PROD205,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",412.9623278586877,S10,3,Solar-powered smartwatch with long battery life
+PROD205,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",399.2017361115029,S2,2,Solar-powered smartwatch with long battery life
+PROD206,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1361.3422880838405,S3,4,Lightweight and powerful ultrabook
+PROD207,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",190.23962776260186,S2,2,Compact Android tablet for reading and browsing
+PROD208,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",81.11445183966309,S10,3,Smart alarm clock with voice assistant
+PROD208,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",94.08646304369312,S1,3,Smart alarm clock with voice assistant
+PROD209,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",2861.485234572505,S8,5,77-inch OLED evo Ultra HD TV
+PROD209,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",2459.11775249837,S5,1,77-inch OLED evo Ultra HD TV
+PROD210,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",139.9842958181143,S3,4,Cylindrical speaker with 360 sound
+PROD210,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",139.31913907104436,S5,1,Cylindrical speaker with 360 sound
+PROD210,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",146.21259820873863,S10,3,Cylindrical speaker with 360 sound
+PROD211,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",393.0924145938278,S1,3,E-reader with note-taking capabilities
+PROD212,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",662.1499466120167,S4,3,Compact mirrorless camera for beginners
+PROD213,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",396.9704936094777,S2,2,Cloud gaming handheld device
+PROD213,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",365.4164006789552,S6,4,Cloud gaming handheld device
+PROD214,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",104.79339699526577,S5,1,Slim and stylish fitness tracker
+PROD215,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",209.71194434865103,S8,5,12TB desktop external drive
+PROD215,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",218.65896765834648,S2,2,12TB desktop external drive
+PROD215,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",219.34768362085873,S3,4,12TB desktop external drive
+PROD216,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",289.54112355296115,S5,1,4TB SATA SSD for mass storage
+PROD216,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",389.69247494220417,S4,3,4TB SATA SSD for mass storage
+PROD217,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",79.1747033755794,S2,2,Ergonomic mouse with customizable weight
+PROD217,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",70.17548996131069,S10,3,Ergonomic mouse with customizable weight
+PROD217,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",77.88639964923017,S1,3,Ergonomic mouse with customizable weight
+PROD218,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",100.49806668572703,S1,3,Low-profile wireless keyboard
+PROD218,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",88.72234500503205,S8,5,Low-profile wireless keyboard
+PROD219,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",70.13865616428713,S2,2,Ring light webcam for better lighting
+PROD220,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",217.739519502631,S6,4,Wi-Fi 6 router with VPN support
+PROD220,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",241.2930325305167,S2,2,Wi-Fi 6 router with VPN support
+PROD221,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",201.72459224046017,S1,3,Smart recessed lighting kit
+PROD222,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",239.3516044577804,S8,5,Learning thermostat with smart sensors
+PROD222,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",193.16851857526672,S5,1,Learning thermostat with smart sensors
+PROD223,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",249.54478853182277,S8,5,Wireless outdoor camera with spotlight
+PROD224,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",1625.315506143669,S10,3,Long-range drone with 4K HDR video
+PROD225,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",872.1946037443507,S3,4,Portable laser projector with autofocus
+PROD225,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",880.6676432991305,S2,2,Portable laser projector with autofocus
+PROD226,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",166.13609244432317,S3,4,Wireless dash cam with smartphone connectivity
+PROD227,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",454.60413372470526,S3,4,Off-road GPS device with topographic maps
+PROD227,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",477.56317245044386,S4,3,Off-road GPS device with topographic maps
+PROD227,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",480.5564499336186,S10,3,Off-road GPS device with topographic maps
+PROD228,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",19.193095345021373,S1,3,Mini portable charger for emergencies
+PROD228,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",15.809292121907953,S5,1,Mini portable charger for emergencies
+PROD228,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",21.605226125855356,S2,2,Mini portable charger for emergencies
+PROD229,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",31.021341403515514,S6,4,USB-C to multiple USB-A adapter
+PROD229,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",29.76532331664474,S2,2,USB-C to multiple USB-A adapter
+PROD229,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",28.16449791483739,S1,3,USB-C to multiple USB-A adapter
+PROD230,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",34.85569955749339,S9,1,8-outlet surge protector power strip
+PROD230,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",35.95603803020783,S2,2,8-outlet surge protector power strip
+PROD230,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",29.555393893810578,S10,3,8-outlet surge protector power strip
+PROD231,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",371.05545138039355,S2,2,Waterproof and shockproof smartphone
+PROD231,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",470.0905267264997,S7,2,Waterproof and shockproof smartphone
+PROD231,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",439.36681127850835,S6,4,Waterproof and shockproof smartphone
+PROD232,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",691.6702748714505,S5,1,Smartphone with a built-in projector
+PROD232,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",793.0050915395576,S1,3,Smartphone with a built-in projector
+PROD233,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",96.71831722802885,S5,1,Bone conduction wireless headphones
+PROD234,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",306.75614432798307,S3,4,High-fidelity earbuds with LDAC support
+PROD235,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",247.70552134463375,S4,3,Luxury hybrid smartwatch
+PROD235,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",281.33150126037634,S10,3,Luxury hybrid smartwatch
+PROD235,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",216.91701439067342,S5,1,Luxury hybrid smartwatch
+PROD236,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",2064.7719863450548,S6,4,Ultra-thin and lightweight gaming laptop
+PROD237,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",471.3528295573807,S3,4,11-inch Android tablet with keyboard support
+PROD238,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",409.7042523837517,S1,3,Smart soundbar with voice control
+PROD238,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",422.5701821965516,S6,4,Smart soundbar with voice control
+PROD238,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",518.7,S9,1,Smart soundbar with voice control
+PROD239,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1535.6162199569399,S3,4,86-inch LED Ultra HD TV
+PROD239,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",2176.223288313095,S2,2,86-inch LED Ultra HD TV
+PROD240,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",257.0014461184387,S4,3,Waterproof and dustproof rugged speaker
+PROD240,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",295.7271528691149,S2,2,Waterproof and dustproof rugged speaker
+PROD240,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",287.23292304137004,S6,4,Waterproof and dustproof rugged speaker
+PROD241,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",583.6256694261372,S3,4,Large e-ink tablet for reading and writing
+PROD241,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",611.0058280493517,S6,4,Large e-ink tablet for reading and writing
+PROD242,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",2063.9565567736954,S1,3,Full-frame DSLR camera
+PROD243,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",353.24296982625924,S4,3,Portable gaming system with OLED screen
+PROD243,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",372.08779833163584,S1,3,Portable gaming system with OLED screen
+PROD244,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",164.43191599970422,S9,1,Smart scale with body composition analysis
+PROD244,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",147.2240537381753,S1,3,Smart scale with body composition analysis
+PROD245,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",420.2527887310994,S4,3,16TB desktop RAID storage
+PROD245,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",304.9647209310165,S8,5,16TB desktop RAID storage
+PROD246,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",623.4050979826771,S8,5,8TB SATA SSD for archival storage
+PROD246,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",871.7876133095109,S7,2,8TB SATA SSD for archival storage
+PROD246,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",895.2863483349321,S6,4,8TB SATA SSD for archival storage
+PROD247,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",89.2116042160935,S8,5,Ambidextrous wireless gaming mouse
+PROD248,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",94.71524621825291,S1,3,Tenkeyless wireless mechanical keyboard
+PROD248,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",119.22794816791458,S7,2,Tenkeyless wireless mechanical keyboard
+PROD248,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",116.00119013270795,S6,4,Tenkeyless wireless mechanical keyboard
+PROD249,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",193.044748905688,S4,3,4K streaming webcam with autofocus
+PROD249,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",172.0925511795079,S5,1,4K streaming webcam with autofocus
+PROD250,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",290.9546206931432,S8,5,Mesh Wi-Fi system with Wi-Fi 6E
+PROD250,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",303.8529279357967,S5,1,Mesh Wi-Fi system with Wi-Fi 6E
+PROD251,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",179.80662906841152,S4,3,Smart outdoor string lights
+PROD251,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",154.66957897394482,S1,3,Smart outdoor string lights
+PROD252,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",238.0143809146799,S1,3,Smart thermostat with geofencing
+PROD252,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",241.59633460221582,S9,1,Smart thermostat with geofencing
+PROD253,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",399.7304588208321,S9,1,Wireless PTZ camera with solar panel option
+PROD254,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",157.3134122049074,S2,2,Micro drone for indoor flying
+PROD255,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",233.83229674930485,S3,4,Ultra-portable mini projector
+PROD256,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",250.04020866697965,S10,3,Integrated dash cam with ADAS features
+PROD256,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",323.7,S9,1,Integrated dash cam with ADAS features
+PROD256,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",238.40716820004906,S6,4,Integrated dash cam with ADAS features
+PROD257,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",323.7110180714277,S2,2,Fitness smartwatch with GPS
+PROD257,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",280.7815084920155,S1,3,Fitness smartwatch with GPS
+PROD257,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",309.5100595542165,S6,4,Fitness smartwatch with GPS
+PROD258,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",138.95724756397397,S10,3,High-capacity power bank with AC outlet
+PROD258,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",130.34078162921122,S7,2,High-capacity power bank with AC outlet
+PROD259,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",394.7788762331586,S10,3,Thunderbolt 4 docking station
+PROD259,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",410.33739423638735,S6,4,Thunderbolt 4 docking station
+PROD259,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",282.0591016247588,S5,1,Thunderbolt 4 docking station
+PROD260,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",190.41460065817964,S9,1,Industrial-grade surge protector
+PROD261,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",634.0716012490534,S9,1,Satellite-enabled rugged smartphone
+PROD261,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",645.7607752591553,S4,3,Satellite-enabled rugged smartphone
+PROD261,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",499.6038205575219,S3,4,Satellite-enabled rugged smartphone
+PROD262,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",673.7801326843658,S6,4,Smartphone with under-display camera
+PROD262,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",828.7914902971384,S1,3,Smartphone with under-display camera
+PROD262,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",679.2788786762469,S10,3,Smartphone with under-display camera
+PROD263,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",168.4062966148183,S6,4,Open-ear wireless headphones
+PROD264,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",275.7807453924105,S9,1,Waterproof ANC earbuds for swimming
+PROD265,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",289.69699469004246,S5,1,Luxury fashion smartwatch
+PROD265,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",348.09830972930075,S7,2,Luxury fashion smartwatch
+PROD266,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",572.8827279459256,S8,5,Convertible Chromebook with stylus support
+PROD266,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",778.7,S9,1,Convertible Chromebook with stylus support
+PROD267,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",587.7568313891243,S3,4,Mini LED display tablet
+PROD268,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",242.27945253532872,S3,4,Smart display with enhanced audio
+PROD268,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",240.94640837837582,S1,3,Smart display with enhanced audio
+PROD269,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",1574.6042897371808,S9,1,55-inch QLED Mini-LED Ultra HD TV
+PROD270,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",101.83211194674834,S10,3,Splashproof portable speaker with long playtime
+PROD270,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",114.9147433587637,S2,2,Splashproof portable speaker with long playtime
+PROD270,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",96.62275165071505,S4,3,Splashproof portable speaker with long playtime
+PROD271,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",111.17658013977253,S3,4,E-reader with physical page-turn buttons
+PROD271,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",154.70000000000002,S9,1,E-reader with physical page-turn buttons
+PROD272,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",887.5612153138183,S3,4,Enthusiast APS-C mirrorless camera
+PROD272,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",726.336585180034,S5,1,Enthusiast APS-C mirrorless camera
+PROD273,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",464.8637109940231,S10,3,Modular handheld gaming device
+PROD274,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",332.2216549409034,S7,2,Smart ring for activity and sleep tracking
+PROD274,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",277.7559187996061,S4,3,Smart ring for activity and sleep tracking
+PROD275,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",549.9611777456715,S6,4,20TB desktop external drive
+PROD275,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",405.23393224178056,S8,5,20TB desktop external drive
+PROD276,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",465.62136173867447,S8,5,4TB NVMe Gen4 high-performance SSD
+PROD277,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",31.314867457952538,S1,3,Compact wireless mouse for travel
+PROD277,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",28.854128336946967,S10,3,Compact wireless mouse for travel
+PROD277,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",22.23161011560561,S5,1,Compact wireless mouse for travel
+PROD278,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",62.3,S5,1,Wireless ergonomic keyboard and mouse combo
+PROD278,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",95.89594338857025,S1,3,Wireless ergonomic keyboard and mouse combo
+PROD279,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",240.27283719035094,S10,3,PTZ streaming webcam with remote control
+PROD279,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",270.0522098736608,S2,2,PTZ streaming webcam with remote control
+PROD280,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",393.4066003643284,S1,3,Wi-Fi 6 mesh system with high throughput
+PROD280,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",518.7,S2,2,Wi-Fi 6 mesh system with high throughput
+PROD280,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",406.0938442981322,S3,4,Wi-Fi 6 mesh system with high throughput
+PROD281,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",68.35423131375752,S8,5,Smart vintage-style LED bulb
+PROD281,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",90.93521950718107,S1,3,Smart vintage-style LED bulb
+PROD282,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",226.89574984320348,S5,1,Smart thermostat with occupancy detection
+PROD283,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",630.5803236098029,S9,1,Wireless 4K security camera system
+PROD283,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",408.6514989856141,S8,5,Wireless 4K security camera system
+PROD284,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",512.4710270011649,S2,2,Lightweight and easy-to-fly beginner drone
+PROD284,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",348.3257493471859,S8,5,Lightweight and easy-to-fly beginner drone
+PROD285,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",561.8862865126243,S3,4,Short throw portable projector with Android TV
+PROD286,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",367.86398272478715,S7,2,4K dual dash cam with parking mode
+PROD286,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",302.0087462223008,S8,5,4K dual dash cam with parking mode
+PROD287,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",449.7391308794189,S2,2,Motorcycle-specific GPS with weather alerts
+PROD287,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",329.4317777658364,S4,3,Motorcycle-specific GPS with weather alerts
+PROD287,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",335.40357097611843,S8,5,Motorcycle-specific GPS with weather alerts
+PROD288,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",87.2415553820049,S9,1,GaN fast-charging power bank
+PROD289,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",67.94531113935597,S5,1,Powered USB-C hub with PD charging
+PROD290,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",36.66819507842717,S1,3,Flat plug surge protector power strip
+PROD291,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",908.7,S9,1,Ruggedized smartphone with thermal camera
+PROD291,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",757.7254522559045,S6,4,Ruggedized smartphone with thermal camera
+PROD291,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",566.2806754406826,S5,1,Ruggedized smartphone with thermal camera
+PROD292,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",891.762596110416,S2,2,Smartphone with a focus on video recording
+PROD293,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",575.0061331191093,S6,4,Noise-canceling headphones with spatial audio
+PROD293,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",616.0632498692441,S10,3,Noise-canceling headphones with spatial audio
+PROD294,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",54.74201129792387,S8,5,Budget-friendly wireless sport earbuds
+PROD294,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",58.465596485862996,S9,1,Budget-friendly wireless sport earbuds
+PROD295,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",728.6641830286973,S3,4,Luxury gold smartwatch
+PROD295,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",847.2225709808148,S7,2,Luxury gold smartwatch
+PROD295,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",579.0453663831496,S6,4,Luxury gold smartwatch
+PROD296,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",2745.412945182714,S7,2,16-inch MacBook Pro
+PROD297,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",1080.7614271886066,S6,4,12.9-inch iPad Pro
+PROD298,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",507.6964689326198,S9,1,High-end smart speaker with premium sound
+PROD299,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",4049.0058008901547,S9,1,75-inch QLED 8K Ultra HD TV
+PROD299,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",4182.676222408958,S6,4,75-inch QLED 8K Ultra HD TV
+PROD299,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",3646.982945710797,S3,4,75-inch QLED 8K Ultra HD TV
+PROD300,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",159.4236210308038,S8,5,Waterproof floating Bluetooth speaker
+PROD301,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",666.6480524732758,S10,3,Compact Android flagship phone
+PROD301,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",786.9897086774545,S7,2,Compact Android flagship phone
+PROD301,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",656.7531730636258,S5,1,Compact Android flagship phone
+PROD302,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",394.1244780956931,S4,3,Mid-range smartphone with excellent camera features
+PROD302,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",345.69911471898877,S3,4,Mid-range smartphone with excellent camera features
+PROD302,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",386.04066274603025,S6,4,Mid-range smartphone with excellent camera features
+PROD303,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",404.4005554251782,S2,2,Premium noise-canceling headphones with touch interface
+PROD304,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",89.15443022743331,S9,1,Affordable ANC earbuds with long battery
+PROD304,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",55.3,S5,1,Affordable ANC earbuds with long battery
+PROD305,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",297.5634053756166,S10,3,Hybrid smartwatch with long battery life
+PROD305,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",288.493238204025,S3,4,Hybrid smartwatch with long battery life
+PROD306,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",920.583787416665,S8,5,13-inch lightweight business laptop
+PROD306,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",885.4645015718564,S5,1,13-inch lightweight business laptop
+PROD306,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",984.9930398737322,S7,2,13-inch lightweight business laptop
+PROD307,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",340.14197461243856,S8,5,Android tablet with S Pen support
+PROD307,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",364.76184511243724,S4,3,Android tablet with S Pen support
+PROD307,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",374.49711095761535,S7,2,Android tablet with S Pen support
+PROD308,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",142.5113783669387,S6,4,Stereo smart speaker with voice assistant
+PROD309,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",2078.786125991409,S9,1,65-inch OLED Ultra HD TV
+PROD310,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",102.7,S9,1,Rugged Bluetooth speaker with carabiner
+PROD310,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",85.49611706276606,S1,3,Rugged Bluetooth speaker with carabiner
+PROD310,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",89.47019324358867,S6,4,Rugged Bluetooth speaker with carabiner
+PROD311,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",143.00704157060838,S4,3,E-reader with adjustable warm and cold light
+PROD311,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",117.00977320946726,S5,1,E-reader with adjustable warm and cold light
+PROD312,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",783.6430617343981,S5,1,Enthusiast APS-C DSLR camera
+PROD313,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",306.6233320186706,S4,3,Digital-only next-gen console
+PROD313,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",388.7,S7,2,Digital-only next-gen console
+PROD313,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",273.3627442266514,S3,4,Digital-only next-gen console
+PROD314,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",144.59208880111768,S1,3,Waterproof tracker with heart rate monitoring
+PROD315,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",121.09886453700395,S3,4,6TB desktop external storage
+PROD316,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",47.20563587124421,S8,5,500GB NVMe Gen3 SSD
+PROD316,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",62.31774907545298,S2,2,500GB NVMe Gen3 SSD
+PROD316,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",76.7,S7,2,500GB NVMe Gen3 SSD
+PROD317,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",63.200228406444886,S9,1,Ergonomic wireless mouse with thumb rest
+PROD317,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",58.93984714163089,S1,3,Ergonomic wireless mouse with thumb rest
+PROD317,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",57.839161460268265,S10,3,Ergonomic wireless mouse with thumb rest
+PROD318,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",115.61999332456669,S10,3,Compact wireless mechanical keyboard
+PROD318,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",128.88898205844012,S2,2,Compact wireless mechanical keyboard
+PROD319,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",77.26114409143796,S4,3,1080p webcam with built-in microphone array
+PROD319,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",102.7,S9,1,1080p webcam with built-in microphone array
+PROD319,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",79.82694567222669,S3,4,1080p webcam with built-in microphone array
+PROD320,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",147.18599479450933,S6,4,Wi-Fi 5 mesh system for medium-sized homes
+PROD321,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",64.94216258172901,S3,4,Smart LED downlights
+PROD321,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",66.05623529735934,S10,3,Smart LED downlights
+PROD322,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",133.55161416670205,S4,3,Basic Wi-Fi thermostat
+PROD323,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",49.31783264157104,S3,4,Indoor pan and tilt security camera
+PROD323,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",50.69702596742297,S5,1,Indoor pan and tilt security camera
+PROD324,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",92.11778856880996,S9,1,Toy drone for beginners
+PROD324,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",80.15673212693275,S10,3,Toy drone for beginners
+PROD324,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",68.31423301531552,S5,1,Toy drone for beginners
+PROD325,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",286.604430232438,S7,2,Portable mini LED projector with Wi-Fi mirroring
+PROD325,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",265.1501267558391,S3,4,Portable mini LED projector with Wi-Fi mirroring
+PROD326,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",149.17716757371204,S1,3,Front-facing dash cam with wide dynamic range
+PROD326,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",95.77113272798034,S5,1,Front-facing dash cam with wide dynamic range
+PROD326,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",119.07228684207004,S10,3,Front-facing dash cam with wide dynamic range
+PROD327,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",110.7060949979508,S6,4,Basic in-car GPS navigator
+PROD327,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",105.5278110402578,S7,2,Basic in-car GPS navigator
+PROD328,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",23.244608347747185,S10,3,Slim portable charger for smartphones
+PROD329,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",40.852147178979465,S4,3,USB 3.0 hub with individual power switches
+PROD329,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",38.30530867205223,S5,1,USB 3.0 hub with individual power switches
+PROD329,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",45.4702924111584,S9,1,USB 3.0 hub with individual power switches
+PROD330,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",28.860026495126817,S2,2,6-outlet surge protector power strip
+PROD330,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",24.396622734357823,S7,2,6-outlet surge protector power strip
+PROD331,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",244.84940227094307,S3,4,Budget-friendly 5G smartphone
+PROD331,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",289.73433481511586,S2,2,Budget-friendly 5G smartphone
+PROD332,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",648.7,S9,1,Smartphone with advanced image stabilization
+PROD333,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",167.925907134178,S3,4,On-ear wireless headphones
+PROD333,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",232.70000000000002,S9,1,On-ear wireless headphones
+PROD333,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",228.13913676279984,S2,2,On-ear wireless headphones
+PROD334,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",155.9496425294932,S10,3,Sport earbuds with ear hooks
+PROD334,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",154.54666281482085,S6,4,Sport earbuds with ear hooks
+PROD334,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",145.8581058146496,S5,1,Sport earbuds with ear hooks
+PROD335,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",137.77307009859976,S3,4,Fitness-focused smartwatch with GPS
+PROD336,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",1113.1888984919576,S9,1,14-inch business-oriented laptop
+PROD337,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",153.92346745270208,S4,3,8-inch Android tablet
+PROD338,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",67.48186615848999,S3,4,Smart speaker with ambient lighting
+PROD338,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",64.25437001917929,S10,3,Smart speaker with ambient lighting
+PROD339,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",670.3885352073098,S1,3,55-inch QLED Ultra HD TV
+PROD340,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",106.56193304612047,S2,2,Compact waterproof speaker
+PROD340,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",127.39629467533167,S9,1,Compact waterproof speaker
+PROD340,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",93.97742565161079,S1,3,Compact waterproof speaker
+PROD341,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",123.05962858357677,S7,2,Basic e-ink reader with adjustable front light
+PROD341,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",119.18238992193267,S1,3,Basic e-ink reader with adjustable front light
+PROD342,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",404.60653435768535,S3,4,Entry-level mirrorless camera
+PROD342,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",457.50931302902524,S8,5,Entry-level mirrorless camera
+PROD343,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",298.3018391146778,S1,3,Hybrid gaming console
+PROD343,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",280.3221327301466,S3,4,Hybrid gaming console
+PROD344,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",45.40540776334716,S9,1,Affordable sleep and activity tracker
+PROD344,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",48.051818410581475,S2,2,Affordable sleep and activity tracker
+PROD344,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",34.74458691883192,S3,4,Affordable sleep and activity tracker
+PROD345,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",95.75989938512423,S7,2,3TB portable external drive
+PROD345,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",78.49142638447067,S8,5,3TB portable external drive
+PROD346,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",106.41018667771104,S4,3,1TB SATA III SSD
+PROD346,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",84.60556339083531,S5,1,1TB SATA III SSD
+PROD347,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",27.27579418214922,S7,2,Silent click wireless mouse
+PROD347,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",27.220394624483163,S10,3,Silent click wireless mouse
+PROD347,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",28.748612496315026,S2,2,Silent click wireless mouse
+PROD348,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",73.69471349911382,S2,2,Full-size Bluetooth keyboard
+PROD349,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",28.905289136575284,S3,4,720p HD webcam for basic video calls
+PROD349,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",33.92047617497151,S9,1,720p HD webcam for basic video calls
+PROD350,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",76.67687364108619,S7,2,Dual-band Wi-Fi 5 router
+PROD350,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",82.6652937031895,S9,1,Dual-band Wi-Fi 5 router
+PROD351,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",35.598677222434155,S9,1,Smart LED strip lights for TV backlight
+PROD351,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",28.056392006739166,S4,3,Smart LED strip lights for TV backlight
+PROD351,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",26.679902761651217,S8,5,Smart LED strip lights for TV backlight
+PROD352,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",99.92828210261432,S10,3,Programmable Wi-Fi thermostat
+PROD353,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",29.992195685551355,S6,4,Wireless indoor camera with two-way audio
+PROD353,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",35.9262249638772,S9,1,Wireless indoor camera with two-way audio
+PROD353,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",32.69272541606665,S1,3,Wireless indoor camera with two-way audio
+PROD354,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",64.01259225264343,S2,2,Mini drone with basic camera features
+PROD355,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",216.54673865062583,S1,3,Budget-friendly portable projector
+PROD356,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",45.76872574230452,S8,5,Loop recording dash cam with G-sensor
+PROD357,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",84.54779280490631,S3,4,Simple GPS device for car
+PROD358,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",21.846096295454213,S2,2,Pocket-sized portable charger
+PROD359,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",29.13976734235155,S2,2,4-port USB 3.0 hub
+PROD359,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",26.652065036983895,S6,4,4-port USB 3.0 hub
+PROD360,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",24.00580043491156,S5,1,Power strip with USB charging ports
+PROD361,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",169.62494239406826,S8,5,Entry-level Android smartphone
+PROD361,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",182.6786185813983,S2,2,Entry-level Android smartphone
+PROD362,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",564.6666469249163,S10,3,Smartphone with long software update support
+PROD363,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",95.24409285829745,S8,5,Foldable wireless on-ear headphones
+PROD363,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",108.1312642740309,S4,3,Foldable wireless on-ear headphones
+PROD364,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",73.55814200413417,S4,3,Water-resistant earbuds for running
+PROD365,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",60.986447496256126,S4,3,Basic smartwatch with notifications
+PROD365,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",67.85899531980857,S6,4,Basic smartwatch with notifications
+PROD365,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",52.789732777482044,S5,1,Basic smartwatch with notifications
+PROD366,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",491.8052964374937,S10,3,15-inch budget-friendly laptop
+PROD367,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",193.51486011328885,S5,1,10-inch Android tablet
+PROD368,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",35.942236039216624,S8,5,Compact smart speaker with fabric design
+PROD369,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",413.10298283233567,S10,3,43-inch Ultra HD TV
+PROD369,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",347.2280517179983,S8,5,43-inch Ultra HD TV
+PROD369,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",401.70539975263574,S3,4,43-inch Ultra HD TV
+PROD370,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",39.40911799992163,S4,3,Ultra-compact mini speaker
+PROD370,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",38.771934266257894,S3,4,Ultra-compact mini speaker
+PROD371,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",102.7,S9,1,Basic e-ink reader
+PROD372,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",277.25118006991545,S7,2,Point-and-shoot digital camera
+PROD372,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",298.9306475684308,S6,4,Point-and-shoot digital camera
+PROD372,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",244.58962146846847,S3,4,Point-and-shoot digital camera
+PROD373,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",,S6,4,Refurbished gaming console
+PROD373,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",,S10,3,Refurbished gaming console
+PROD374,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",55.63183603084563,S6,4,Basic activity tracker
+PROD374,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",54.74363306147504,S2,2,Basic activity tracker
+PROD375,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",52.006281730255765,S6,4,1TB slim portable drive
+PROD376,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",31.27639801086496,S1,3,240GB SATA III SSD
+PROD377,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",15.857954014327975,S8,5,Basic wireless optical mouse
+PROD378,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",45.8718784573895,S3,4,Slim wireless keyboard
+PROD378,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",48.49536868927707,S10,3,Slim wireless keyboard
+PROD378,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",41.48180310911992,S6,4,Slim wireless keyboard
+PROD379,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",29.299744433783957,S6,4,720p HD webcam with fixed focus
+PROD379,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",24.739289404590856,S1,3,720p HD webcam with fixed focus
+PROD379,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",18.37684500272258,S8,5,720p HD webcam with fixed focus
+PROD380,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",28.222772619086836,S10,3,Single-band Wi-Fi 4 router
+PROD380,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",24.94279868012146,S8,5,Single-band Wi-Fi 4 router
+PROD380,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",31.93214744777176,S6,4,Single-band Wi-Fi 4 router
+PROD381,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",20.50569173703382,S5,1,Smart LED color bulb (single)
+PROD382,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",54.87689395230336,S7,2,Manual programmable thermostat
+PROD382,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",46.29114999433703,S3,4,Manual programmable thermostat
+PROD382,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",49.59564323640675,S10,3,Manual programmable thermostat
+PROD383,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",21.33242667170496,S3,4,Wired indoor security camera
+PROD384,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",44.15685149398229,S1,3,Mini toy drone with LED lights
+PROD384,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",45.48393789501813,S10,3,Mini toy drone with LED lights
+PROD384,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",57.041254065400835,S6,4,Mini toy drone with LED lights
+PROD385,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",165.040991959684,S4,3,Small portable LCD projector
+PROD386,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",47.64260638453565,S10,3,Basic loop recording car camera
+PROD387,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",87.56157792788501,S6,4,Entry-level car GPS
+PROD388,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",15.003245488640083,S4,3,Small keychain power bank
+PROD388,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",14.216780231597406,S6,4,Small keychain power bank
+PROD388,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",14.254287912103255,S10,3,Small keychain power bank
+PROD389,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",9.0052655060767,S3,4,4-port USB 2.0 hub
+PROD390,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",18.274371056812967,S9,1,Basic power strip with surge protection
+PROD390,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",14.664860200023705,S10,3,Basic power strip with surge protection
+PROD391,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",91.13059531886174,S8,5,Senior-friendly smartphone with large buttons
+PROD391,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",94.73356377771738,S4,3,Senior-friendly smartphone with large buttons
+PROD391,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",97.61158724971068,S10,3,Senior-friendly smartphone with large buttons
+PROD392,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",73.22426190224104,S10,3,Unlocked basic smartphone
+PROD393,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",46.64677308281631,S1,3,Kids wireless headphones with volume limit
+PROD394,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",28.19075866856476,S3,4,Basic wireless earbuds
+PROD394,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",28.506777447091906,S10,3,Basic wireless earbuds
+PROD394,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",32.48930724954477,S9,1,Basic wireless earbuds
+PROD395,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",153.04345877150237,S10,3,Kids smartwatch with GPS tracking
+PROD395,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",157.53725167941658,S3,4,Kids smartwatch with GPS tracking
+PROD396,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",,S4,3,Refurbished Chromebook
+PROD396,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",,S6,4,Refurbished Chromebook
+PROD397,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",71.64556303117953,S2,2,7-inch budget Android tablet
+PROD398,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",39.86580208349778,S4,3,Mini smart speaker puck
+PROD399,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",230.35174642956403,S7,2,32-inch Smart HD TV
+PROD399,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",187.67208606525242,S6,4,32-inch Smart HD TV
+PROD399,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",195.6855250957401,S4,3,32-inch Smart HD TV
+PROD400,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",68.23750718210374,S2,2,Clip-on portable speaker
+PROD401,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",167.70000000000002,S9,1,Pocket-sized e-reader
+PROD401,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",128.52920406832214,S10,3,Pocket-sized e-reader
+PROD401,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",163.48968837184177,S7,2,Pocket-sized e-reader
+PROD402,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",284.98500912527174,S6,4,Waterproof point-and-shoot camera
+PROD402,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",367.1695494930556,S7,2,Waterproof point-and-shoot camera
+PROD402,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",281.44812945174033,S8,5,Waterproof point-and-shoot camera
+PROD403,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",85.30588502611833,S6,4,Plug-and-play retro console
+PROD403,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",97.3262135027995,S4,3,Plug-and-play retro console
+PROD403,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",86.53563929993462,S8,5,Plug-and-play retro console
+PROD404,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",93.89454230002053,S2,2,Ankle fitness tracker for cycling/swimming
+PROD405,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",153.80535215528292,S5,1,2TB portable SSD
+PROD405,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",139.59003580667465,S9,1,2TB portable SSD
+PROD405,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",178.4159161658528,S2,2,2TB portable SSD
+PROD406,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",258.7,S2,2,2TB NVMe Gen3 SSD
+PROD406,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",210.75956192469567,S6,4,2TB NVMe Gen3 SSD
+PROD407,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",141.88506544973896,S4,3,Wireless trackpad
+PROD407,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",160.69397017580778,S2,2,Wireless trackpad
+PROD407,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",157.40804998252952,S6,4,Wireless trackpad
+PROD408,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",42.37152345643838,S6,4,Foldable Bluetooth keyboard for tablets
+PROD408,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",39.083789333683264,S3,4,Foldable Bluetooth keyboard for tablets
+PROD409,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",67.19685755899371,S7,2,1080p webcam with privacy shutter
+PROD409,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",57.38492235125376,S3,4,1080p webcam with privacy shutter
+PROD410,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",102.09158011180273,S6,4,Wi-Fi 6 extender
+PROD410,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",98.26021801500596,S8,5,Wi-Fi 6 extender
+PROD410,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",82.10534701315757,S5,1,Wi-Fi 6 extender
+PROD411,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",49.44069292171135,S1,3,Smart LED strip with music sync
+PROD411,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",47.390695737699374,S3,4,Smart LED strip with music sync
+PROD412,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",280.72800059657175,S9,1,Wi-Fi thermostat with remote sensors
+PROD412,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",282.73709634287223,S4,3,Wi-Fi thermostat with remote sensors
+PROD413,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",233.83121320648905,S7,2,Outdoor PTZ camera with wired connection
+PROD414,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",102.7,S6,4,Racing drone frame kit (DIY)
+PROD415,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",1205.3549831217792,S3,4,Ultra short-throw projector for gaming
+PROD416,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",139.40725175079356,S3,4,Rear-view mirror integrated dash cam
+PROD416,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",127.93774276419866,S5,1,Rear-view mirror integrated dash cam
+PROD416,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",184.85119418729514,S2,2,Rear-view mirror integrated dash cam
+PROD417,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",334.89647478115876,S10,3,Marine handheld GPS
+PROD418,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",25.390340502918814,S8,5,Credit card-sized portable charger
+PROD418,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",27.87750494511256,S9,1,Credit card-sized portable charger
+PROD418,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",27.795018855318375,S3,4,Credit card-sized portable charger
+PROD419,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",49.08276430186566,S4,3,7-port USB 3.0 hub with power adapter
+PROD420,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",45.809779315151104,S7,2,Rotating outlet surge protector
+PROD420,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",39.968126481613574,S2,2,Rotating outlet surge protector
+PROD420,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",39.602856277903456,S4,3,Rotating outlet surge protector
+PROD421,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",105.5857329975727,S9,1,Budget smartphone with large display
+PROD421,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",89.44664383191993,S3,4,Budget smartphone with large display
+PROD421,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",86.84651190418624,S6,4,Budget smartphone with large display
+PROD422,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",359.67313869926306,S4,3,Smartphone with stylus pen
+PROD422,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",386.1650447026049,S9,1,Smartphone with stylus pen
+PROD422,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",362.08816211299865,S1,3,Smartphone with stylus pen
+PROD423,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",94.17619317789485,S7,2,Wireless earbuds with charging case
+PROD424,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",130.51743069220325,S4,3,Open-fit wireless earbuds
+PROD424,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",123.70005441610208,S10,3,Open-fit wireless earbuds
+PROD424,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",142.61269493023372,S1,3,Open-fit wireless earbuds
+PROD425,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",223.38107413257902,S2,2,Analog smartwatch with hidden display
+PROD425,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",163.97839918240845,S3,4,Analog smartwatch with hidden display
+PROD425,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",174.48292732217885,S8,5,Analog smartwatch with hidden display
+PROD426,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",806.3117778563482,S6,4,17-inch budget gaming laptop
+PROD426,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",833.3313843054912,S10,3,17-inch budget gaming laptop
+PROD426,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",708.9102832375742,S3,4,17-inch budget gaming laptop
+PROD427,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",168.96685933246326,S6,4,8-inch Fire HD tablet with Kids Edition
+PROD428,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",205.6761920100666,S1,3,Portable Bluetooth smart speaker
+PROD428,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",220.38988593105952,S2,2,Portable Bluetooth smart speaker
+PROD428,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",151.38198789586713,S3,4,Portable Bluetooth smart speaker
+PROD429,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",352.2945194225923,S3,4,50-inch Roku Smart TV
+PROD429,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",423.0486807444422,S6,4,50-inch Roku Smart TV
+PROD429,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",376.57551668910344,S10,3,50-inch Roku Smart TV
+PROD430,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",37.15427131058108,S5,1,Mini waterproof speaker with suction cup
+PROD430,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",38.474135092843056,S8,5,Mini waterproof speaker with suction cup
+PROD431,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",232.70000000000002,S2,2,E-reader with audiobook support
+PROD431,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",153.26199305576395,S8,5,E-reader with audiobook support
+PROD432,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",382.07837839309786,S10,3,Superzoom bridge camera
+PROD432,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",323.49084883039217,S5,1,Superzoom bridge camera
+PROD432,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",374.97443707277074,S4,3,Superzoom bridge camera
+PROD433,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",,S6,4,Used gaming console (various models)
+PROD434,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",85.233785429613,S9,1,Chest strap heart rate monitor
+PROD434,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",70.81927377782519,S4,3,Chest strap heart rate monitor
+PROD435,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",178.2379445201537,S10,3,8TB portable external drive
+PROD435,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",189.94506525782643,S2,2,8TB portable external drive
+PROD436,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",195.28989999090444,S7,2,2TB NVMe Gen4 budget SSD
+PROD437,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",83.17862532330483,S9,1,Gaming mouse with wired/wireless option
+PROD437,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",114.17118190982185,S7,2,Gaming mouse with wired/wireless option
+PROD437,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",68.62776315526956,S8,5,Gaming mouse with wired/wireless option
+PROD438,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",319.24552805518454,S6,4,Ergonomic wireless split keyboard
+PROD438,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",285.1570963415098,S9,1,Ergonomic wireless split keyboard
+PROD439,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",96.15001287535699,S9,1,1080p webcam with auto low light correction
+PROD440,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",61.30969688967185,S9,1,Wi-Fi 5 extender with Ethernet port
+PROD440,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",47.889090428715356,S4,3,Wi-Fi 5 extender with Ethernet port
+PROD440,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",51.512635088508105,S7,2,Wi-Fi 5 extender with Ethernet port
+PROD441,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",51.77391499254578,S8,5,Smart LED light bar for monitor backlight
+PROD441,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",61.4430542648787,S2,2,Smart LED light bar for monitor backlight
+PROD442,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",82.47585554371739,S4,3,Smart fan controller
+PROD442,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",92.1362589584183,S2,2,Smart fan controller
+PROD442,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",72.54712357320382,S7,2,Smart fan controller
+PROD443,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",48.46181975210262,S10,3,Hidden spy camera
+PROD443,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",50.28358856580707,S1,3,Hidden spy camera
+PROD443,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",45.07063462935264,S3,4,Hidden spy camera
+PROD444,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",713.0491786680087,S8,5,Drone with obstacle avoidance
+PROD445,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",663.2961320133885,S1,3,1080p home theater projector
+PROD445,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",796.5770680951239,S2,2,1080p home theater projector
+PROD445,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",682.1790008340754,S3,4,1080p home theater projector
+PROD446,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",64.52172037255299,S8,5,Discreet mini dash cam
+PROD446,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",93.99826970356581,S2,2,Discreet mini dash cam
+PROD447,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",226.507081961961,S1,3,Smart rearview mirror with GPS
+PROD447,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",242.13761819614365,S2,2,Smart rearview mirror with GPS
+PROD447,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",175.92910720679077,S8,5,Smart rearview mirror with GPS
+PROD448,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",52.2512347828155,S4,3,High-capacity USB-C power bank
+PROD448,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",52.40197072387858,S8,5,High-capacity USB-C power bank
+PROD449,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",60.81834932154295,S8,5,10-port USB 3.0 hub with charging
+PROD449,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",73.0443660611748,S1,3,10-port USB 3.0 hub with charging
+PROD449,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",69.10806391683741,S10,3,10-port USB 3.0 hub with charging
+PROD450,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",42.04618265063863,S3,4,Power strip with individual switches
+PROD450,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",49.75315387131722,S10,3,Power strip with individual switches
+PROD450,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",63.7,S9,1,Power strip with individual switches
+PROD451,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",287.51979426989055,S10,3,Durable flip phone with basic smart features
+PROD451,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",374.6767097840346,S7,2,Durable flip phone with basic smart features
+PROD451,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",284.2728019380791,S8,5,Durable flip phone with basic smart features
+PROD452,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",470.7168390207919,S10,3,Unlocked mid-range smartphone
+PROD452,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",508.6163015862272,S3,4,Unlocked mid-range smartphone
+PROD453,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",258.7,S7,2,Retro-style wireless headphones
+PROD453,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",198.6752099372027,S10,3,Retro-style wireless headphones
+PROD453,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",200.6880655310155,S6,4,Retro-style wireless headphones
+PROD454,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",193.70000000000002,S2,2,Wireless earbuds with active noise reduction
+PROD454,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",173.33232408509855,S9,1,Wireless earbuds with active noise reduction
+PROD454,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",159.33539744910382,S1,3,Wireless earbuds with active noise reduction
+PROD455,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",604.0885305988968,S3,4,Solar-powered tactical smartwatch
+PROD456,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",1145.8285210628467,S2,2,15-inch touchscreen laptop
+PROD456,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",965.5668256967222,S4,3,15-inch touchscreen laptop
+PROD456,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1265.8226334030014,S7,2,15-inch touchscreen laptop
+PROD457,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",757.8590844989291,S2,2,10-inch rugged outdoor tablet
+PROD457,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",679.2864236583134,S6,4,10-inch rugged outdoor tablet
+PROD458,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",124.98782502782483,S9,1,Smart speaker with built-in Zigbee hub
+PROD458,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",77.7379535431459,S8,5,Smart speaker with built-in Zigbee hub
+PROD459,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",747.8621371726551,S4,3,65-inch Roku QLED Smart TV
+PROD460,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",115.37938197220684,S2,2,Floating waterproof Bluetooth speaker
+PROD460,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",128.70000000000002,S9,1,Floating waterproof Bluetooth speaker
+PROD460,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",100.02284362066084,S10,3,Floating waterproof Bluetooth speaker
+PROD461,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",400.2826128530756,S4,3,E-reader with large storage for manga
+PROD462,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",343.6747305992653,S6,4,Underwater digital camera
+PROD462,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",412.9325911534426,S7,2,Underwater digital camera
+PROD463,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",193.70000000000002,S6,4,Portable retro handheld console
+PROD463,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",139.45897192547199,S2,2,Portable retro handheld console
+PROD464,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",37.7,S9,1,Clip-on fitness tracker
+PROD465,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",107.21108579304746,S5,1,5TB portable game drive
+PROD466,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",145.54637335658586,S4,3,1TB portable SSD
+PROD466,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",167.42985183233347,S6,4,1TB portable SSD
+PROD466,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",189.71680992527143,S7,2,1TB portable SSD
+PROD467,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",34.94022197579879,S5,1,Slim wireless travel mouse
+PROD467,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",30.52012798491114,S8,5,Slim wireless travel mouse
+PROD468,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",31.698990785215347,S6,4,Wireless numeric keypad
+PROD469,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",159.0081113502318,S9,1,4K webcam with wide field of view
+PROD469,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",128.55785946738644,S10,3,4K webcam with wide field of view
+PROD469,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",129.32274700627477,S8,5,4K webcam with wide field of view
+PROD470,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",212.13929480682103,S2,2,Wi-Fi 6 mesh system (2-pack)
+PROD470,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",159.67357905569443,S8,5,Wi-Fi 6 mesh system (2-pack)
+PROD471,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",22.021336477291005,S2,2,Smart plug with energy monitoring
+PROD471,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",20.2075195113228,S4,3,Smart plug with energy monitoring
+PROD472,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",112.55550972610357,S2,2,Smart vent controller
+PROD473,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",267.74803780329404,S6,4,Bird feeder camera with AI detection
+PROD473,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",264.5454918737502,S2,2,Bird feeder camera with AI detection
+PROD474,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",1799.4581516066432,S7,2,Waterproof drone
+PROD475,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",1036.5992369990272,S2,2,Ceiling-mounted home theater projector
+PROD476,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",188.21190690666936,S8,5,Wireless battery-powered dash cam
+PROD476,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",245.12262383588074,S9,1,Wireless battery-powered dash cam
+PROD476,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",188.4720943310559,S10,3,Wireless battery-powered dash cam
+PROD477,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",228.0011909301518,S8,5,Bike GPS computer
+PROD478,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",20.597108618145903,S3,4,Mini lipstick-sized portable charger
+PROD479,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",31.601488777179725,S3,4,USB-C to Ethernet adapter with USB ports
+PROD479,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",35.874380805929675,S1,3,USB-C to Ethernet adapter with USB ports
+PROD479,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",41.772536042056196,S7,2,USB-C to Ethernet adapter with USB ports
+PROD480,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",26.675825552585767,S4,3,Under-desk power strip with surge protection
+PROD481,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",492.3824549235899,S8,5,Push-to-talk rugged smartphone
+PROD481,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",508.02322847146195,S2,2,Push-to-talk rugged smartphone
+PROD481,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",531.7790750990366,S6,4,Push-to-talk rugged smartphone
+PROD482,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",127.03805505514705,S5,1,Unlocked budget Android phone
+PROD483,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",85.68031292719478,S6,4,Wireless neckband headphones
+PROD483,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",98.40709087802347,S9,1,Wireless neckband headphones
+PROD484,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",148.76763674130027,S4,3,Wireless earbuds with UV cleaning case
+PROD484,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",162.56882585711264,S2,2,Wireless earbuds with UV cleaning case
+PROD484,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",163.97110345564639,S6,4,Wireless earbuds with UV cleaning case
+PROD485,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",196.23830899862853,S10,3,Fashion smartwatch with AMOLED display
+PROD485,ValueTech Supply,"7 days for exchange only, original condition. No refunds.",190.97247324370454,S5,1,Fashion smartwatch with AMOLED display
+PROD486,Apex Digital Solutions,"90 days for full refund, any condition. Free return shipping.",2387.8211504250266,S8,5,17-inch workstation laptop
+PROD487,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",353.2600357985873,S1,3,10-inch Chrome OS tablet
+PROD487,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",350.6603471888792,S6,4,10-inch Chrome OS tablet
+PROD488,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",138.4378403487627,S6,4,Smart speaker with built-in air quality sensor
+PROD489,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",752.2057409690834,S1,3,70-inch Vizio Smart TV
+PROD489,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",640.2504227273962,S10,3,70-inch Vizio Smart TV
+PROD489,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",674.0675632316644,S3,4,70-inch Vizio Smart TV
+PROD490,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",117.38074873213573,S1,3,Solar-powered Bluetooth speaker
+PROD491,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",176.55650627012244,S2,2,E-reader with large buttons for easy use
+PROD492,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",115.45213095855891,S6,4,Instant camera with printer
+PROD492,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",109.76940041619868,S2,2,Instant camera with printer
+PROD493,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",202.3680424006589,S4,3,Streaming device for cloud gaming
+PROD493,Circuit Central,"10 days for full refund, unopened only. Buyer pays return shipping.",258.7,S9,1,Streaming device for cloud gaming
+PROD494,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",78.08099373496852,S2,2,Smart scale with Wi-Fi connectivity
+PROD495,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",307.33693703814913,S1,3,14TB desktop external drive
+PROD496,Nexus Retail Group,"45 days for full refund, open box accepted. Free return shipping.",279.6507287376375,S6,4,2TB portable NVMe SSD
+PROD496,Prime Picks Electronic,"21 days for full refund or exchange, no restocking fee. Buyer pays return shipping.",260.26583264574816,S4,3,2TB portable NVMe SSD
+PROD497,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",84.04978838259596,S7,2,Ergonomic vertical wireless trackball mouse
+PROD497,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",81.84014339872921,S10,3,Ergonomic vertical wireless trackball mouse
+PROD497,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",87.98279072247907,S2,2,Ergonomic vertical wireless trackball mouse
+PROD498,Global Gadgets Co.,"60 days for full refund, open box accepted, 15% restocking fee. Free return shipping.",53.07767419539662,S3,4,Wireless keyboard with number pad
+PROD499,Streamline Tech,"30 days for exchange or full refund, open box accepted, 10% restocking fee. Free return shipping.",77.77374395930747,S10,3,Wireless security camera that works as a webcam
+PROD500,ElectroDirect Inc.,"30 days for full refund, original packaging, unused. Buyer pays return shipping.",55.54736473696944,S1,3,Portable travel router
+PROD500,Innovate Electronics,"30 days for exchange/store credit, original packaging. Buyer pays return shipping.",67.25542505487333,S7,2,Portable travel router
+PROD500,Tech Emporium Ltd.,"14 days for exchange/store credit, unopened. No returns opened items unless defective.",63.23564521696258,S2,2,Portable travel router
