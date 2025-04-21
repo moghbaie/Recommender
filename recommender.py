@@ -11,7 +11,7 @@ import os
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("Llama4_Maverick")
+api_key = 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
 
 # import product list
 df_products = pd.read_csv("data/product_list.csv")
