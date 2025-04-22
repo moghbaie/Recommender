@@ -282,32 +282,3 @@ class ProductRecommender:
         df_sorted = df.sort_values(by='total_score', ascending=False).reset_index(drop=True)
         return df_sorted
     
-    
-    
-def main():
-    """
-    Main function to run the product recommendation system.
-    """
-    # Assign suppliers and adjust prices (assuming this is done only once)
-    df_products_with_suppliers = assign_supplier_and_adjust_price(df_products.copy(), df_suppliers)
-
-    # Initialize the recommender system
-    recommender = ProductRecommender(df_products_with_suppliers, df_suppliers)
-
-    # Interactive loop to get user queries and display recommendations
-    while True:
-        query = input("Enter your product query (or 'exit' to quit): ")
-        if query.lower() == 'exit':
-            break
-
-
-        recommendations_df = recommender.recommend_products(query)
-        if not recommendations_df.empty:
-            ranked_df = recommender.rank_products(recommendations_df, query)
-            print("\nRecommended Products:")
-            print(ranked_df[['ProductID','Description','Supplier','Price','Supplier Return Policy']].drop_duplicates().head(5).to_string(index=False))  # Use to_string for console
-
-
-
-if __name__ == "__main__":
-    main()
