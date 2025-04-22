@@ -189,7 +189,7 @@ class ProductRecommender:
             retriever=self.vectorstore.as_retriever(search_kwargs={"k": 20}),  # Limit to top 5 results
             return_source_documents=True
         )
-        result = qa_chain({"query": query})
+        result = qa_chain.invoke({"query": query})
 
         # Extract relevant information and handle the case where no documents are returned.
         if 'source_documents' in result and result['source_documents']:
