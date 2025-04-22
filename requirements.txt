@@ -36,9 +36,11 @@ jsonschema-specifications==2024.10.1
 langchain==0.3.23
 langchain-community==0.3.21
 langchain-core==0.3.55
+langchain-huggingface==0.1.2
 langchain-openai==0.3.14
 langchain-text-splitters==0.3.8
 langsmith==0.3.33
+load-dotenv==0.1.0
 MarkupSafe==3.0.2
 marshmallow==3.26.1
 mpmath==1.3.0
