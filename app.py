@@ -19,6 +19,7 @@ rank_results = st.checkbox("Rank results by price and return policy")
 if query:
     with st.spinner("Fetching recommendations..."):
         recommended_df = recommender.recommend_products(query)
+  
 
         if not recommended_df.empty:
             if rank_results:
@@ -27,7 +28,7 @@ if query:
                 st.dataframe(ranked_df[['ProductID','Description','Supplier','Price','Supplier Return Policy']].drop_duplicates())
             else:
                 st.success(f"Showing top {len(recommended_df)} recommendations:")
-                st.dataframe(recommended_df[['ProductID','Description','Supplier','Price','Supplier Return Policy']].drop_duplicates())
+                st.dataframe(recommended_df[['ProductID','Description','Supplier','Adjusted Price (USD)','Supplier Return Policy']].drop_duplicates())
         else:
             st.warning("No relevant products found for your query.")
 else:
